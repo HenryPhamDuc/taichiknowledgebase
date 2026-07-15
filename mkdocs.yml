@@ -1,0 +1,69 @@
+site_name: Tai Chi Knowledge Base
+site_description: Comprehensive Tai Chi training resource - Foundation, Advanced, and Elite levels
+site_author: Henry Pham
+repo_url: https://github.com/HenryPhamDuc/taichiknowledgebase
+repo_name: HenryPhamDuc/taichiknowledgebase
+docs_dir: docs
+site_dir: site
+use_directory_urls: false
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - tables
+  - footnotes
+extra:
+  alternate:
+    - name: English
+      link: /en/foundation/basics/index.md
+      lang: en
+    - name: Tiếng Việt
+      link: /vi/foundation/basics/index.md
+      lang: vi
+nav:
+  - Home: index.md
+  - Foundation:
+    - Overview: en/foundation/index.md
+    - Basics:
+      - en/foundation/basics/index.md
+    - Vietnamese Basics:
+      - vi/foundation/basics/index.md
+    - Deep Dives:
+      - en/foundation/deep-dives/index.md
+    - Vietnamese Deep Dives:
+      - vi/foundation/deep-dives/index.md
+  - Advanced:
+    - Overview: en/advanced/index.md
+    - Basics:
+      - en/advanced/basics/index.md
+    - Vietnamese Basics:
+      - vi/advanced/basics/index.md
+    - Deep Dives:
+      - en/advanced/deep-dives/index.md
+    - Vietnamese Deep Dives:
+      - vi/advanced/deep-dives/index.md
+  - Elite:
+    - Overview: en/elite/index.md
+    - Basics:
+      - en/elite/basics/index.md
+    - Vietnamese Basics:
+      - vi/elite/basics/index.md
+    - Deep Dives:
+      - en/elite/deep-dives/index.md
+    - Vietnamese Deep Dives:
+      - vi/elite/deep-dives/index.md
