@@ -38,7 +38,7 @@ extra:
 nav:
   - Home: index.md
   - Taichi:
-    - English: en/taichi/index.md
+    - English: https://henryphamduc.github.io/taichiknowledgebase/en
     - Tiếng Việt: vi/taichi/index.md
   - Foundation:
     - Overview: en/foundation/index.md
