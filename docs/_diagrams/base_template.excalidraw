@@ -1,0 +1,312 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "hermes-agent-templates",
+  "elements": [
+    {
+      "type": "rectangle",
+      "id": "header-bg",
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 60,
+      "roundness": {
+        "type": 2
+      },
+      "backgroundColor": "#e6f7ff",
+      "fillStyle": "solid",
+      "boundElements": [
+        {
+          "id": "title-text",
+          "type": "text",
+          "x": 400,
+          "y": 25,
+          "width": 760,
+          "height": 30,
+          "text": "24-Form Tai Chi Diagram - Form [FORM_NUMBER]",
+          "fontSize": 20,
+          "fontFamily": 1,
+          "strokeColor": "#1e1e1e",
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "title-text",
+          "originalText": "24-Form Tai Chi Diagram - Form [FORM_NUMBER]",
+          "autoResize": true
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "form-name-text",
+      "x": 520,
+      "y": 105,
+      "width": 400,
+      "height": 40,
+      "text": "[FORM_NAME]",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "strokeColor": "#2e7d32",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "form-name-text",
+      "originalText": "[FORM_NAME]",
+      "autoResize": true,
+      "fixedTextColor": true
+    },
+    {
+      "type": "text",
+      "id": "breathing-text",
+      "x": 520,
+      "y": 155,
+      "width": 400,
+      "height": 30,
+      "text": "Breathing: [INHALE/EXHALE] → [MOVEMENT_DESCRIPTION]",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "strokeColor": "#66bb6a",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "breathing-text",
+      "originalText": "Breathing: [INHALE/EXHALE] → [MOVEMENT_DESCRIPTION]",
+      "autoResize": true,
+      "fixedTextColor": true
+    },
+    {
+      "type": "rectangle",
+      "id": "start-position",
+      "x": 50,
+      "y": 200,
+      "width": 200,
+      "height": 200,
+      "roundness": {
+        "type": 3
+      },
+      "backgroundColor": "#e0f7fa",
+      "fillStyle": "solid",
+      "boundElements": [
+        {
+          "id": "start-text",
+          "type": "text",
+          "x": 150,
+          "y": 295,
+          "width": 180,
+          "height": 30,
+          "text": "[START_POSITION_NAME]",
+          "fontSize": 16,
+          "fontFamily": 1,
+          "strokeColor": "#0d6b6b",
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "start-text",
+          "originalText": "[START_POSITION_NAME]",
+          "autoResize": true
+        }
+      ],
+      "roughness": {
+        "type": 1
+      },
+      "strokeWidth": 1.8
+    },
+    {
+      "type": "arrow",
+      "id": "movement-arrow",
+      "x": 270,
+      "y": 250,
+      "width": 0,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          100,
+          100
+        ]
+      ],
+      "endArrowhead": "arrow",
+      "boundElements": [
+        {
+          "id": "arrow-label",
+          "type": "text",
+          "x": 320,
+          "y": 280,
+          "width": 150,
+          "height": 25,
+          "text": "[MOVEMENT_DETAIL]",
+          "fontSize": 14,
+          "fontFamily": 1,
+          "strokeColor": "#1e1e1e",
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "arrow-label",
+          "originalText": "[MOVEMENT_DETAIL]",
+          "autoResize": true
+        }
+      ],
+      "strokeWidth": 2
+    },
+    {
+      "type": "rectangle",
+      "id": "end-position",
+      "x": 400,
+      "y": 220,
+      "width": 200,
+      "height": 200,
+      "roundness": {
+        "type": 3
+      },
+      "backgroundColor": "#fff3e0",
+      "fillStyle": "solid",
+      "boundElements": [
+        {
+          "id": "end-text",
+          "type": "text",
+          "x": 500,
+          "y": 315,
+          "width": 180,
+          "height": 30,
+          "text": "[END_POSITION_NAME]",
+          "fontSize": 16,
+          "fontFamily": 1,
+          "strokeColor": "#bf360c",
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "end-text",
+          "originalText": "[END_POSITION_NAME]",
+          "autoResize": true
+        }
+      ],
+      "roughness": {
+        "type": 1
+      },
+      "strokeWidth": 1.8
+    },
+    {
+      "type": "text",
+      "id": "key-points-title",
+      "x": 50,
+      "y": 450,
+      "width": 200,
+      "height": 30,
+      "text": "Key Points",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "key-points-title",
+      "originalText": "Key Points",
+      "autoResize": true,
+      "fixedTextColor": true
+    },
+    {
+      "type": "ellipse",
+      "id": "point-marker-1",
+      "x": 150,
+      "y": 480,
+      "width": 10,
+      "height": 10,
+      "backgroundColor": "#66bb6a",
+      "fillStyle": "solid",
+      "strokeColor": "#388e3c"
+    },
+    {
+      "type": "ellipse",
+      "id": "point-marker-2",
+      "x": 300,
+      "y": 480,
+      "width": 10,
+      "height": 10,
+      "backgroundColor": "#66bb6a",
+      "fillStyle": "solid",
+      "strokeColor": "#388e3c"
+    },
+    {
+      "type": "ellipse",
+      "id": "point-marker-3",
+      "x": 450,
+      "y": 480,
+      "width": 10,
+      "height": 10,
+      "backgroundColor": "#66bb6a",
+      "fillStyle": "solid",
+      "strokeColor": "#388e3c"
+    },
+    {
+      "type": "text",
+      "id": "point-label-1",
+      "x": 165,
+      "y": 485,
+      "width": 100,
+      "height": 20,
+      "text": "[TIPS_TITLE]:\n[TIPS_1]",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": "point-label-1",
+      "originalText": "[TIPS_TITLE]:\n[TIPS_1]",
+      "autoResize": true,
+      "fixedTextColor": true
+    },
+    {
+      "type": "text",
+      "id": "point-label-2",
+      "x": 315,
+      "y": 485,
+      "width": 100,
+      "height": 20,
+      "text": "[TIPS_TITLE2]:\n[TIPS_2]",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": "point-label-2",
+      "originalText": "[TIPS_TITLE2]:\n[TIPS_2]",
+      "autoResize": true,
+      "fixedTextColor": true
+    },
+    {
+      "type": "text",
+      "id": "point-label-3",
+      "x": 465,
+      "y": 485,
+      "width": 100,
+      "height": 20,
+      "text": "[TIPS_TITLE3]:\n[TIPS_3]",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": "point-label-3",
+      "originalText": "[TIPS_TITLE3]:\n[TIPS_3]",
+      "autoResize": true,
+      "fixedTextColor": true
+    },
+    {
+      "type": "text",
+      "id": "note-text",
+      "x": 50,
+      "y": 520,
+      "width": 500,
+      "height": 80,
+      "text": "Note: Practice slowly. Focus on maintaining body alignment, breathing coordination, and smooth transitions. Common mistakes are highlighted above the corresponding points.",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#616161",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": "note-text",
+      "originalText": "Note: Practice slowly. Focus on maintaining body alignment, breathing coordination, and smooth transitions. Common mistakes are highlighted above the corresponding points.",
+      "autoResize": true,
+      "fixedTextColor": true
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff"
+  }
+}
