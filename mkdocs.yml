@@ -37,36 +37,29 @@ extra:
       lang: vi
 nav:
   - Home: index.md
-  - Taichi
-- Taichi Knowledge Base: https://henryphamduc.github.io/taichiknowledgebase/en/index.html
-- Thư Viện Kiến Thức Thái Cực Quyền: https://henryphamduc.github.io/taichiknowledgebase/vi/index.html
+  - Taichi Knowledge Base: https://henryphamduc.github.io/taichiknowledgebase/en/index.html
+  - Thư Viện Kiến Thức Thái Cực Quyền: https://henryphamduc.github.io/taichiknowledgebase/vi/index.html
   - Foundation:
     - Overview: en/foundation/index.md
     - Basics:
       - en/foundation/basics/index.md
-    - Vietnamese Basics:
       - vi/foundation/basics/index.md
     - Deep Dives:
       - en/foundation/deep-dives/index.md
-    - Vietnamese Deep Dives:
       - vi/foundation/deep-dives/index.md
   - Advanced:
     - Overview: en/advanced/index.md
     - Basics:
       - en/advanced/basics/index.md
-    - Vietnamese Basics:
       - vi/advanced/basics/index.md
     - Deep Dives:
       - en/advanced/deep-dives/index.md
-    - Vietnamese Deep Dives:
       - vi/advanced/deep-dives/index.md
   - Elite:
     - Overview: en/elite/index.md
     - Basics:
       - en/elite/basics/index.md
-    - Vietnamese Basics:
       - vi/elite/basics/index.md
     - Deep Dives:
       - en/elite/deep-dives/index.md
-    - Vietnamese Deep Dives:
       - vi/elite/deep-dives/index.md
