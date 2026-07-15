@@ -37,6 +37,9 @@ extra:
       lang: vi
 nav:
   - Home: index.md
+  - Taichi:
+    - English: en/taichi/index.md
+    - Tiếng Việt: vi/taichi/index.md
   - Foundation:
     - Overview: en/foundation/index.md
     - Basics:
