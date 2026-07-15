@@ -4,4 +4,4 @@
 
 Chen Xiaowang fajin analysis, martial applications, and energy cultivation practices.
 
-[Return to Elite Overview →](../index.md)
+[Return to Elite Overview →](index.md)

@@ -56,4 +56,4 @@ This section is being built out with:
 
 ---
 
-**Coming from Vietnamese content?** [Cơ Bản Tiếng Việt →](../../vi/foundation/basics/index.md)
+**Vietnamese version:** [Cơ Bản Tiếng Việt →](../../../vi/foundation/basics/index.md)

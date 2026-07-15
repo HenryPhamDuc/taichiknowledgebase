@@ -94,4 +94,4 @@ Video hướng dẫn được tuyển chọn từ danh sách phát của bạn:
 
 ---
 
-**English version:** [English Deep Dives →](../../../en/foundation/deep-dives/index.md)
+**English version:** [English Deep Dives →](../../../../en/foundation/deep-dives/index.md)

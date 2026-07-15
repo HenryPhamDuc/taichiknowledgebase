@@ -43,4 +43,4 @@ Phần này đang được xây dựng. Quay lại sớm để biết:
 
 ---
 
-**Nền tảng chưa vững?** [Quay lại Nền Tảng →](../foundation/index.md) | **English:** [Advanced Level →](../../../en/advanced/index.md)
+**Nền tảng chưa vững?** [Quay lại Nền Tảng →](../../foundation/index.md) | **English:** [Advanced Level →](../../../../en/advanced/index.md)

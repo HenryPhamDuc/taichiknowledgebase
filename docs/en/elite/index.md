@@ -42,4 +42,4 @@ This section is minimally populated with:
 
 ---
 
-**Need more foundation?** [Return to basics →](../foundation/index.md) | **Vietnamese:** [Cấp Độ Tinh Hoa →](../../vi/elite/index.md)
+**Need more foundation?** [Return to basics →](../../foundation/index.md) | **Vietnamese:** [Cấp Độ Tinh Hoa →](../../../vi/elite/index.md)

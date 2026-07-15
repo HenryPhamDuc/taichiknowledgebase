@@ -4,4 +4,4 @@
 
 Phân tích phát kình Trần Tiểu Vương, ứng dụng võ thuật, và bài tập bồi dưỡng năng lượng.
 
-[Quay lại Tổng Quan Tinh Hoa →](../index.md)
+[Quay lại Tổng Quan Tinh Hoa →](index.md)

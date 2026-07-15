@@ -43,4 +43,4 @@ This section is being built out. Check back soon for:
 
 ---
 
-**Foundation not solid yet?** [Return to Foundation →](../foundation/index.md) | **Vietnamese:** [Cấp Độ Cao Cấp →](../../vi/advanced/index.md)
+**Foundation not solid yet?** [Return to basics →](../../foundation/index.md) | **Vietnamese:** [Cấp Độ Cao Cấp →](../../../vi/advanced/index.md)

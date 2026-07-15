@@ -56,4 +56,4 @@ Phần này đang được xây dựng với:
 
 ---
 
-**Đến từ nội dung tiếng Anh?** [English Basics →](../../../en/foundation/basics/index.md)
+**English version:** [English Basics →](../../../../en/foundation/basics/index.md)

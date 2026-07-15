@@ -42,4 +42,4 @@ Phần này được cập nhật tối thiểu với:
 
 ---
 
-**Cần thêm nền tảng?** [Quay lại cơ bản →](../foundation/index.md) | **English:** [Elite Level →](../../../en/elite/index.md)
+**Cần thêm nền tảng?** [Quay lại cơ bản →](../../foundation/index.md) | **English:** [Elite Level →](../../../../en/elite/index.md)

@@ -4,4 +4,4 @@
 
 Advanced internal mechanics, fajin training, and silk reeling exercises coming soon.
 
-[Return to Elite Overview →](../index.md)
+[Return to Elite Overview →](index.md)
