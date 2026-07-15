@@ -1,0 +1,192 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "hermes-agent-form-diagrams",
+  "elements": [
+    {
+      "type": "text",
+      "id": "title-text",
+      "x": 400,
+      "y": 25,
+      "width": 760,
+      "height": 30,
+      "text": "24-Form Tai Chi Diagram - Form 02.",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "title-text",
+      "originalText": "24-Form Tai Chi Diagram - Form 02.",
+      "autoResize": true
+    },
+    {
+      "type": "text",
+      "id": "form-name-text",
+      "x": 520,
+      "y": 105,
+      "width": 400,
+      "height": 40,
+      "text": "Wild Horse Parts Mane (3×)",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "strokeColor": "#2e7d32",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "form-name-text",
+      "originalText": "Wild Horse Parts Mane (3×)",
+      "autoResize": true,
+      "fixedTextColor": true
+    },
+    {
+      "type": "text",
+      "id": "breathing-text",
+      "x": 520,
+      "y": 155,
+      "width": 400,
+      "height": 30,
+      "text": "Breathing: Shift weight → Extend hand forward",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "strokeColor": "#66bb6a",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "breathing-text",
+      "originalText": "Breathing: Shift weight → Extend hand forward",
+      "autoResize": true,
+      "fixedTextColor": true
+    },
+    {
+      "type": "rectangle",
+      "id": "start-position",
+      "x": 50,
+      "y": 200,
+      "width": 200,
+      "height": 200,
+      "roundness": {
+        "type": 3
+      },
+      "backgroundColor": "#e0f7fa",
+      "fillStyle": "solid",
+      "boundElements": [
+        {
+          "id": "start-text",
+          "type": "text",
+          "x": 150,
+          "y": 295,
+          "width": 180,
+          "height": 30,
+          "text": "Walking Stance",
+          "fontSize": 16,
+          "fontFamily": 1,
+          "strokeColor": "#0d6b6b",
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "start-text",
+          "originalText": "Walking Stance",
+          "autoResize": true
+        }
+      ],
+      "roughness": {
+        "type": 1
+      },
+      "strokeWidth": 1.8
+    },
+    {
+      "type": "arrow",
+      "id": "movement-arrow",
+      "x": 270,
+      "y": 250,
+      "width": 0,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          120,
+          0
+        ]
+      ],
+      "endArrowhead": "arrow",
+      "boundElements": [
+        {
+          "id": "arrow-label",
+          "type": "text",
+          "x": 270,
+          "y": 220,
+          "width": 150,
+          "height": 25,
+          "text": "Shift weight → Extend hand forward",
+          "fontSize": 14,
+          "fontFamily": 1,
+          "strokeColor": "#1e1e1e",
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "arrow-label",
+          "originalText": "Shift weight → Extend hand forward",
+          "autoResize": true
+        }
+      ],
+      "strokeWidth": 2
+    },
+    {
+      "type": "rectangle",
+      "id": "end-position",
+      "x": 400,
+      "y": 220,
+      "width": 200,
+      "height": 200,
+      "roundness": {
+        "type": 3
+      },
+      "backgroundColor": "#fff3e0",
+      "fillStyle": "solid",
+      "boundElements": [
+        {
+          "id": "end-text",
+          "type": "text",
+          "x": 500,
+          "y": 315,
+          "width": 180,
+          "height": 30,
+          "text": "Walking Stance",
+          "fontSize": 16,
+          "fontFamily": 1,
+          "strokeColor": "#bf360c",
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "end-text",
+          "originalText": "Walking Stance",
+          "autoResize": true
+        }
+      ],
+      "roughness": {
+        "type": 1
+      },
+      "strokeWidth": 1.8
+    },
+    {
+      "type": "text",
+      "id": "point-label-1",
+      "x": 165,
+      "y": 485,
+      "width": 100,
+      "height": 20,
+      "text": "Tip 1:\nShift weight smoothly, don't rush\nTip 2:\nKeep hand aligned with spine\nTip 3:\nMaintain 50/50 weight transition",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": "point-label-1",
+      "originalText": "Tip 1:\\nShift weight smoothly, don't rush\nTip 2:\\nKeep hand aligned with spine\nTip 3:\\nMaintain 50/50 weight transition",
+      "autoResize": true,
+      "fixedTextColor": true
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff"
+  }
+}
