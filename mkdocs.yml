@@ -37,9 +37,9 @@ extra:
       lang: vi
 nav:
   - Home: index.md
-  - Taichi:
-    - English: https://henryphamduc.github.io/taichiknowledgebase/en
-    - Tiếng Việt: vi/taichi/index.md
+  - Taichi
+- Taichi Knowledge Base: https://henryphamduc.github.io/taichiknowledgebase/en/index.html
+- Thư Viện Kiến Thức Thái Cực Quyền: https://henryphamduc.github.io/taichiknowledgebase/vi/index.html
   - Foundation:
     - Overview: en/foundation/index.md
     - Basics:
