@@ -24,7 +24,7 @@ Vài câu trả lời thật lòng:
 
 **Được xây dựng trên nền tảng võ thuật nội gia, không chỉ bài tập sức khỏe.** Thái Cực Quyền là một môn võ thuật. Lợi ích sức khỏe có thật và đã được chứng minh rõ ràng, nhưng công việc sâu hơn — phát triển nội tại, luyện tập với bạn đồng hành, huấn luyện cấu trúc — mới là điều làm cho Thái Cực Quyền trở thành điều nó là. Cơ Sở Kiến Thức này đối xử nghiêm túc với điều đó.
 
-**Nó luôn phát triển.** Khi tôi học thêm, bài viết sẽ tốt hơn. Phiên bản mới nhất luôn ở đây. Bạn có thể xem lịch sử thay đổi trên [GitHub](https://github.com/henryphamduc/taichiknowledgebase/commits/master).
+**Nó luôn phát triển.** Khi tôi học thêm, bài viết sẽ tốt hơn. Phiên bản mới nhất luôn ở đây.
 
 ## Nổi Bật Trong Tháng Này
 
@@ -37,8 +37,6 @@ Vài câu trả lời thật lòng:
 ## Bắt Đầu Từ Đâu
 
 Nếu bạn mới làm quen với Thái Cực Quyền, hãy bắt đầu với [Cấp Độ Nền Tảng](./foundation/index.md). Tài liệu ở đó sẽ giữ bạn bận rộn nhiều tháng. Đừng vội bỏ qua.
-
-Nếu bạn có câu hỏi, góp ý, hoặc muốn chia sẻ điều bạn đang luyện tập, dự án nằm trên [GitHub](https://github.com/henryphamduc/taichiknowledgebase). Mọi yêu cầu hợp nhất, vấn đề và email đều được chào đón.
 
 ---
 

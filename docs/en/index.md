@@ -24,7 +24,7 @@ A few honest answers:
 
 **It's built on internal martial arts, not just health exercise.** Tai Chi is a martial art. The health benefits are real and well-documented, but the deeper work — the internal development, the partner practice, the structural training — is what makes Tai Chi what it is. This Knowledge Base treats that seriously.
 
-**It evolves.** As I learn more, the articles get better. The latest versions are always here. Earlier versions are in the [version history](https://github.com/henryphamduc/taichiknowledgebase/commits/master).
+**It evolves.** As I learn more, the articles get better. The latest versions are always here.
 
 ## Featured This Month
 
@@ -36,9 +36,7 @@ A few honest answers:
 
 ## Start Here
 
-If you're new to Tai Chi, begin with the [Foundation Level](./foundation/index.md). The material there will keep you busy for months. Don't rush past it.
-
-If you have questions, suggestions, or want to share what you're working on, the project is on [GitHub](https://github.com/henryphamduc/taichiknowledgebase). Pull requests, issues, and emails are all welcome.
+If you're new to Tai Chi, start with the [Foundation Level](./foundation/index.md). The material there will keep you busy for months. Don't rush past it.
 
 ---
 

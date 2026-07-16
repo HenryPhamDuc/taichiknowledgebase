@@ -1,8 +1,6 @@
 site_name: Tai Chi Knowledge Base
 site_description: Comprehensive Tai Chi training resource - Foundation, Advanced, and Elite levels
 site_author: Henry Pham
-repo_url: https://github.com/HenryPhamDuc/taichiknowledgebase
-repo_name: HenryPhamDuc/taichiknowledgebase
 docs_dir: docs
 site_dir: site
 use_directory_urls: false
