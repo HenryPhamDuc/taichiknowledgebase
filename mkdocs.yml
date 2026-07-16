@@ -30,10 +30,10 @@ markdown_extensions:
 extra:
   alternate:
     - name: English
-      link: /en/foundation/basics/index.md
+      link: /taichiknowledgebase/en/foundation/basics/index.html
       lang: en
     - name: Tiếng Việt
-      link: /vi/foundation/basics/index.md
+      link: /taichiknowledgebase/vi/foundation/basics/index.html
       lang: vi
 nav:
   - Home: index.md
