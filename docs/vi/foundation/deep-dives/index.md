@@ -24,7 +24,7 @@ Phân tích toàn diện các nguyên tắc cơ bản hướng dẫn mọi chuy�
 Sự trình bày của bậc thầy Dương gia về các nguyên tắc Thái Cực Quyền cốt lõi:
 
 - Hàm Hung Bạt Bối (Hãm ngực, ngửa lưng)
-- Tùng Yêu낙 Hý (Thư giãn lưng hông)
+- Tùng Yêu (Thư giãn eo hông)
 - Phân Thanh Hư Thực (Phân biệt thực hư)
 - Và nhiều hơn nữa...
 

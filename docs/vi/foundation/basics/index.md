@@ -48,7 +48,7 @@ Bốn năng lượng chính của Thái Cực Quyền. Bạn sẽ tìm thấy ch
 
 Trước khi học toàn bộ bài quyền, hãy luyện từng chuyển động riêng lẻ. Đây là cách bạn phát triển chất lượng.
 
-- **Lão Thác Cước (Bắt Đuôi Chim):** Bổng, Lộ, Kỳ, Án — bốn năng lượng trong một chuỗi. Chuyển động quan trọng nhất trong Dương gia. Tinh thông nó và bạn có nền tảng.
+- **Lão Thác Vĩ (Bắt Đuôi Chim):** Bổng, Lộ, Kỳ, Án — bốn năng lượng trong một chuỗi. Chuyển động quan trọng nhất trong Dương gia. Tinh thông nó và bạn có nền tảng.
 - **Vân Thủ (Vẫy Tay Như Mây):** Chuyển động bên liên tục được dẫn dắt bởi eo. Cánh tay theo sau; eo dẫn đầu. Mắt theo tay dẫn.
 - **Đơn Tiên (Whip Đơn):** Một cánh tay vươn ra như "cây móc" trong khi tay kia đẩy. Rèn cấu trúc bất đối xứng vốn là nền tảng của Thái Cực Quyền.
 - **Bạch Hạc Lượng Cánh (Hạc Trắng Xòe Cánh):** Thăng bằng một chân với một cánh tay nâng cao. Rèn chân rỗng, cánh tay nâng, toàn thân tích hợp.

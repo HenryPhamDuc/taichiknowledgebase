@@ -1057,10 +1057,10 @@ Như Ian Sinclair thường nói: *"Cao cấp chỉ là cơ bản, được tậ
 ## Tài Liệu Tham Khảo và Nghiên Cứu Thêm
 
 ### Nguồn Chính:
-- سلسلة видео Ian Sinclair "Tai Chi Health & Finance Foundation"
--シリーズ Ian Sinclair "Classical Tai Chi Chuan"
--_series Ian Sinclair "Tai Chi Mechanics & Principles"
--_series Ian Sinclair "Advanced Tai Chi Applications"
+- Chuỗi video Ian Sinclair "Tai Chi Health & Finance Foundation"
+- Chuỗi video Ian Sinclair "Classical Tai Chi Chuan"
+- Chuỗi video Ian Sinclair "Tai Chi Mechanics & Principles"
+- Chuỗi video Ian Sinclair "Advanced Tai Chi Applications"
 
 ### Tài Liệu Bổ Sung:
 - "Thập Yếu Thái Cực Quyền" (cơ sở tri thức này)
