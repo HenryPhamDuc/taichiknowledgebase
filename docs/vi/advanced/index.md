@@ -67,7 +67,7 @@ Bài viết chuyên sâu về những khía cạnh cụ thể của thực hành
 
 Bạn sẽ gặp những tuyên bố trong tài liệu Cao Cấp nghe lạ lùng. "Di chuyển từ trung tâm." "Hóa giải lực." "Bốn lạng đánh bại nghìn cân." Những cụm từ này có nghĩa chính xác, nhưng sự chính xác được cảm nhận, không nghe thấy.
 
-Khi điều gì đó không có ý nghĩa, hãy gạt sang một bên. Tiếp tục luyện tập. Quay lại nó trong vài tháng. Cùng một câu mà lúc đầu nghe như vô nghĩa sẽ有一天 đọc như mô tả kỹ thuật chính xác về những gì cơ thể bạn vừa làm.
+Khi điều gì đó không có ý nghĩa, hãy gạt sang một bên. Tiếp tục luyện tập. Quay lại nó trong vài tháng. Cùng một câu mà lúc đầu nghe như vô nghĩa sẽ có ngày đọc như mô tả kỹ thuật chính xác về những gì cơ thể bạn vừa làm.
 
 Điều này là bình thường. Võ thuật nội gia được học bằng cách làm, không phải bằng cách hiểu chúng trí tuệ. Bài viết là bản đồ. Lãnh thổ là thực hành của bạn.
 

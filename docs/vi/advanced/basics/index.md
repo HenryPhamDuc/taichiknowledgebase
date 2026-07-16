@@ -23,9 +23,9 @@ Ngoài Thập Nhị Thức (24 thức), bước tiếp theo thường là Thập
 
 ### Giới Thiệu Làm Việc Cùng Bạn Đồng Hành
 
-Thôi thủ (推手) là lần đầu tiên Thái Cực Quyền trở thành cuộc đối thoại. Bạn và bạn đồng hành duy trì tiếp xúc, lắng nghe cấu trúc của nhau, và phản hồi mà không kháng cự.
+Thôi thủ là lần đầu tiên Thái Cực Quyền trở thành cuộc đối thoại. Bạn và bạn đồng hành duy trì tiếp xúc, lắng nghe cấu trúc của nhau, và phản ứng mà không kháng cự.
 
-Mục tiêu không phải là "thắng" — mà là phát triển *thính kình* (聽勁), khả năng lắng nghe năng lượng. Bạn đang rèn luyện hệ thần kinh để đọc trọng lượng, hướng, và ý đồ qua tiếp xúc vật lý. Đây cũng là nơi nhiều học viên phát hiện ra mình đang giữ căng thẳng mà không hề biết.
+Mục tiêu không phải là "thắng" — mà là phát triển *thính kình*, khả năng lắng nghe năng lượng. Bạn đang rèn luyện hệ thần kinh để đọc trọng lượng, hướng, và ý đồ qua tiếp xúc vật lý. Đây cũng là nơi nhiều học viên phát hiện ra mình đang giữ căng thẳng mà không hề biết.
 
 **Bài tập đầu tiên:**
 
@@ -39,10 +39,10 @@ Bắt đầu chậm. Nếu bạn có thể cảm nhận ý đồ của bạn đ�
 
 Những nguyên tắc từ thôi thủ định hình mọi thứ tiếp theo ở cấp độ Cao Cấp. Bạn sẽ học:
 
-- **Dính (粘):** tiếp xúc mà không bám dính
-- **Tùy (隨):** di chuyển theo chuyển động của họ, không chống lại
-- **Hóa (化):** hóa giải lực của họ mà không mất trung tâm
-- **Phát (發):** phát lực khi họ mất thăng bằng
+- **Dính:** tiếp xúc mà không bám dính
+- **Tùy:** di chuyển theo chuyển động của họ, không chống lại
+- **Hóa:** hóa giải lực của họ mà không mất trung tâm
+- **Phát:** phát lực khi họ mất thăng bằng
 
 Bốn từ này — dính, tùy, hóa, phát — là từ vựng làm việc của võ thuật nội gia. Tinh thông chúng, bạn có nền tảng cho phần còn lại của cuộc đời.
 

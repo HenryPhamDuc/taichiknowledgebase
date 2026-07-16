@@ -23,7 +23,7 @@ Bạn sẽ luyện tập:
 
 ### Luyện Tập Phát Kình
 
-Phát kình (發勁), thường dịch là "phát lực," là biểu hiện bùng nổ của cấu trúc nội tại. Đó là khoảnh khắc một chuyển động Thái Cực Quyền chậm, nhẹ nhàng có thể tạo ra lực khiến mọi người ngạc nhiên — kể cả người đang thực hiện.
+Phát kình, thường dịch là "phát lực," là biểu hiện bùng nổ của cấu trúc nội tại. Đó là khoảnh khắc một chuyển động Thái Cực Quyền chậm, nhẹ nhàng có thể tạo ra lực khiến mọi người ngạc nhiên — kể cả người đang thực hiện.
 
 Phát kình không phải kỹ thuật. Nó là kết quả có thể nhìn thấy của nhiều năm rèn luyện cấu trúc. Khi cấu trúc của bạn đúng, phát kình là điều tự nhiên xảy ra. Khi cấu trúc sai, không luyện tập nào tạo ra được.
 
@@ -31,7 +31,7 @@ Công việc ở đây phần lớn là cấu trúc: sửa khu, mở lưng, kế
 
 ### Bài Tập Cuốn Tơ
 
-Cuốn tơ (纏絲功) là bài tập nền tảng của Trần gia Thái Cực Quyền. Đó là tập hợp các chuyển động xoắn ốc rèn cơ thể di chuyển như một toàn thể kết nối, với mỗi khớp tham gia vào mọi hướng chuyển động.
+Cuốn tơ là bài tập nền tảng của Trần gia Thái Cực Quyền. Đó là tập hợp các chuyển động xoắn ốc rèn cơ thể di chuyển như một toàn thể kết nối, với mỗi khớp tham gia vào mọi hướng chuyển động.
 
 Bạn sẽ luyện tập:
 
@@ -44,7 +44,7 @@ Các bậc thầy Trần gia coi cuốn tơ là nền tảng của mọi thứ k
 
 ### Thiền Đứng Ở Chiều Sâu
 
-Trụ Vô Cực (站樁) là bài tập nhàm chán nhất và quan trọng nhất trong Thái Cực Quyền. Đứng yên, không làm gì, trong thời gian dài.
+Trụ Vô Cực là bài tập nhàm chán nhất và quan trọng nhất trong Thái Cực Quyền. Đứng yên, không làm gì, trong thời gian dài.
 
 Ở cấp Nền Tảng, bạn học đứng. Ở cấp Cao Cấp, bạn học đứng tốt. Ở cấp Tinh Hoa, bạn đứng một giờ đồng hồ và khám phá ra rằng "không làm gì" là ảo tưởng — luôn có điều gì đó để cảm nhận, điều gì đó để buông, điều gì đó để nhận ra.
 
