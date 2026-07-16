@@ -96,7 +96,7 @@ Về sức khỏe, hầu hết đau lưng mãn tính bắt nguồn từ căng th
 
 ### Cách Luyện Tập
 
-Bài tập xoay hông: đứng với hai chân rộng bằng vai. Đặt tay lên hông để cảm nhận xương hông. Xoay hông trái-phải như vòng呼la trong những vòng tròn nhỏ. Để tay buông lỏng — chúng không điều khiển. Thực hiện 20 vòng mỗi hướng, hàng ngày.
+Bài tập xoay hông: đứng với hai chân rộng bằng vai. Đặt tay lên hông để cảm nhận xương hông. Xoay hông trái-phải như những vòng tròn nhỏ liên tục. Để tay buông lỏng — chúng không điều khiển. Thực hiện 20 vòng mỗi hướng, hàng ngày.
 
 Bài tập ngồi: đứng trong tư thế Vô Cực. Tưởng tượng bạn sắp ngồi lên một cái ghế đẩu cao. Hơi khuỵu gối và hạ xương cụt xuống. Cảm nhận lưng dưới mở rộng, không tròn. Giữ trong 30 giây và thở vào vùng đó.
 

@@ -848,7 +848,7 @@ Dựa trên phương pháp giảng dạy của Ian Sinclair, chương trình nà
 | **Phối Hợp Hơi Thở** | Nín thở hoặc không khớp | Phối hợp có ý thức | Phối hợp tự động | Hơi thở dẫn chuyển động vô hình |
 | **Căn Chỉnh Khớp** | Thường sai | Có thể tự sửa | Duy trì trong chuyển động | Tinh chỉnh căn chỉnh tự động |
 | **Phát Lực** | Chỉ cơ cục bộ | Một số kết nối mặt đất bắt đầu | Lực toàn thân sẵn có | Lực xuất hiện từ hư không |
-| **Thời Gian Phản Ứng** | Chậm, báo trước | Cải thiện, một số đoán trước | Nhanh, báo trước tối thiểu | Tức thì, không chuẩn bị可见 |
+| **Thời Gian Phản Ứng** | Chậm, báo trước | Cải thiện, một số đoán trước | Nhanh, báo trước tối thiểu | Tức thì, không cần chuẩn bị |
 
 ### Điểm Khác Biệt Chính
 
@@ -1085,7 +1085,7 @@ Như Ian Sinclair thường nói: *"Cao cấp chỉ là cơ bản, được tậ
 
 **Phiên Bản Tài Liệu:** 1.0  
 **Ngày Tạo:** 15 tháng 7, 2026  
-**Dựa Trên:** Khung giảng dạy của Ian Sinclair như trình bày trong系列 YouTube của ông  
+**Dựa Trên:** Khung giảng dạy của Ian Sinclair như trình bày trong chuỗi video YouTube của ông  
 **Tác Giả:** Tạo từ nội dung hướng dẫn của Ian Sinclair  
 **Giấy Phép:** Để nghiên cứu cá nhân và tham khảo trong Cơ Sở Tri Thức Thái Cực Quyền
 

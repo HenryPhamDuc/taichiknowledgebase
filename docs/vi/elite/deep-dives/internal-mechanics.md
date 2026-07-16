@@ -40,7 +40,7 @@ Fascia có ba đặc tính khiến nó trở thành trung tâm của cơ học n
 
 Khi bạn tạo sức mạnh từ chân và truyền nó đến tay, fascia là xa lộ. Nếu fascia của bạn dính hoặc mất nước (do thiếu vận động, chấn thương, hoặc tuổi tác), truyền lực bị suy giảm. Đây là lý do tại sao Thái Cực Quyền nhấn mạnh chuyển động chậm, toàn tầm — nó giữ fascia khỏe mạnh và trơn tru.
 
-**3. Nhạy cảm cảm giác bản thể:** Fascia chứa nhiều đầu dây thần kinh cảm giác hơn cơ. Nó là hệ thống GPS của cơ thể bạn, liên tục báo cáo về vị trí, căng thẳng, và chuyển động. Khi bạn phát triển "năng lượng lắng nghe" (Thính Kình, 聽勁), bạn đang phần nào huấn luyện hệ thống cảm giác fascia của mình để phát hiện những thay đổi tinh tế về áp lực và chuyển động.
+**3. Nhạy cảm cảm giác bản thể:** Fascia chứa nhiều đầu dây thần kinh cảm giác hơn cơ. Nó là hệ thống GPS của cơ thể bạn, liên tục báo cáo về vị trí, căng thẳng, và chuyển động. Khi bạn phát triển "năng lượng lắng nghe" (Thính Kình), bạn đang phần nào huấn luyện hệ thống cảm giác fascia của mình để phát hiện những thay đổi tinh tế về áp lực và chuyển động.
 
 ### Huấn Luyện Hệ Thống Fascia
 
@@ -48,7 +48,7 @@ Bạn không thể co fascia trực tiếp như cơ. Nhưng bạn có thể hu�
 
 **Chuyển động chậm, toàn tầm:** Luyện tập quyền Thái Cực Quyền, thực hiện đúng, nạp và giải phóng fascia qua toàn bộ tầm của nó. Điều này duy trì độ đàn hồi và ngăn ngừa adhesions (các mảng dính làm cản trở sự trượt).
 
-**Chuyển động xoắn:** Các bài tập Quyển Tơ (Chan Si Gong) nhắm cụ thể vào các đường fascia chạy chéo qua cơ thể. Hành động xoắn làm quấn fascia, lưu trữ năng lượng đàn hồi được giải phóng khi mở ra.
+**Chuyển động xoắn:** Các bài tập cuốn tơ nhắm cụ thể vào các đường fascia chạy chéo qua cơ thể. Hành động xoắn làm quấn fascia, lưu trữ năng lượng đàn hồi được giải phóng khi mở ra.
 
 **Ngậm nước và sức khỏe:** Fascia cần ngậm nước để duy trì độ trơn. Mất nước mãn tính, viêm, hoặc mô sẹo có thể làm fascia dính. Vận động, ngậm nước, và (với một số người) công việc giải phóng cơ fascia có thể giúp duy trì sức khỏe fascia.
 
@@ -133,7 +133,7 @@ Nhiều người thở chủ yếu vào ngực, hầu như không di chuyển c�
 **Sai Lầm 3: נier Thở**
 Dưới áp lực (ví dụ: đẩy tay), nhiều võ sinh vô thức nín thở. Điều này tạo ra căng thẳng và phá vỡ truyền lực.
 
-**Sửa:** Biến nó thành quy tắc: không bao giờ nín thở, ngay cả dưới áp lực. Nếu bạn nhận thấy mình đang nín, thở ra thành tiếng. Điều này giải phóng căng thẳng và重置 hơi thở của bạn.
+**Sửa:** Biến nó thành quy tắc: không bao giờ nín thở, ngay cả dưới áp lực. Nếu bạn nhận thấy mình đang nín, thở ra thành tiếng. Điều này giải phóng căng thẳng và đặt lại nhịp thở của bạn.
 
 ### Công Việc Hơi Thở Nâng Cao: Vi Tiểu Chu Thiên
 
@@ -192,7 +192,7 @@ Nghiên cứu về học vận động xác định ba giai đoạn:
 
 ### Đan Điền Là Gì?
 
-Đan Điền (丹田), thường được dịch là "trường đan dược," là một khái niệm từ y học Trung Quốc và võ thuật. Nó đề cập đến một trung tâm năng lượng ở bụng dưới, khoảng 2-3 ngón tay dưới rốn và sâu bên trong cơ thể.
+Đan Điền, thường được dịch là "trường đan dược," là một khái niệm từ y học cổ truyền và võ thuật. Nó đề cập đến một trung tâm năng lượng ở bụng dưới, khoảng 2-3 ngón tay dưới rốn và sâu bên trong cơ thể.
 
 Từ góc độ vật lý, Đan Điền tương ứng với:
 - Trọng tâm cơ thể của bạn (khi đứng)
@@ -228,11 +228,11 @@ Bạn không cần tin vào Khí để sử dụng Đan Điền hiệu quả. Ch
 
 ---
 
-## Phát Sức Mạnh (Phát Kình, 發勁): Đỉnh Cao Của Cơ Học Nội Tại
+## Phát Sức Mạnh (Phát Kình): Đỉnh Cao Của Cơ Học Nội Tại
 
 ### Phát Kình Là Gì?
 
-Phát Kình (發勁) nghĩa là "phát lực" — sự giải phóng bùng nổ của lực được tạo ra nội tại. Nó thường được biểu diễn như một cú nổ ngắn, tầm gần làm bay đối thủ mà không cần nạp lực可见.
+Phát Kình nghĩa là "phát lực" — sự giải phóng bùng nổ của lực được tạo ra nội tại. Nó thường được biểu diễn như một cú nổ ngắn, tầm gần làm bay đối thủ mà không cần nạp lực trước.
 
 Phát Kình không phải là bùng nổ cơ — nó là sự giải phóng phối hợp của tất cả cơ học nội tại chúng ta đã thảo luận:
 - Bật lại fascia (giải phóng giống lò xo)
@@ -295,7 +295,7 @@ Sửa: Kiểm tra sự căn chỉnh và gốc của bạn trước khi phát. Ch
 
 ### Khí Là Gì?
 
-Không có thảo luận nào về cơ học nội tại là hoàn chỉnh mà không đề cập đến Khí (氣). Được dịch là "năng lượng," "hơi thở," hoặc "sinh lực," Khí là một khái niệm trung tâm trong y học Trung Quốc và võ thuật — và là một khái niệm bị hiểu lầm sâu sắc.
+Không có thảo luận nào về cơ học nội tại là hoàn chỉnh mà không đề cập đến Khí. Được dịch là "năng lượng," "hơi thở," hoặc "sinh lực," Khí là một khái niệm trung tâm trong y học cổ truyền và võ thuật — và là một khái niệm bị hiểu lầm sâu sắc.
 
 Từ góc độ truyền thống, Khí là một năng lượng tinh tế, phi vật lý chảy qua cơ thể bạn dọc theo các đường dẫn gọi là kinh mạch. Bồi dưỡng và lưu chuyển Khí là một mục tiêu chính của huấn luyện nội tại.
 
@@ -310,9 +310,9 @@ Bạn không cần chọn một cách giải thích. Nhiều võ sinh thấy gi�
 
 ### Ý (Ý Định): Tâm Dẫn Khí
 
-Một câu nói nổi tiếng của Thái Cực Quyền: "Dụng ý bất dụng lực" (以意導氣, 以氣導身).
+Một câu nói nổi tiếng của Thái Cực Quyền: "Dụng Ý bất dụng lực."
 
-Ý (意) nghĩa là ý định, ý chí, hoặc tâm tập trung. Nguyên lý này có nghĩa: sự tập trung tinh thần của bạn hướng dẫn năng lượng nội tại của bạn, sau đó hướng dẫn chuyển động vật lý của bạn.
+Ý nghĩa là ý định, ý chí, hoặc tâm tập trung. Nguyên lý này có nghĩa: sự tập trung tinh thần của bạn hướng dẫn năng lượng nội tại của bạn, sau đó hướng dẫn chuyển động vật lý của bạn.
 
 Trong thực tế:
 - Bạn không chỉ di chuyển tay — bạn địnhý chuyển động từ Đan Điền, và tay bạn theo.
@@ -383,7 +383,7 @@ Cũng: thường xuyên luyện tập quyền của bạn "cho vui" — không c
 
 Cơ học nội tại được gọi là "nội tại" vì một lý do — chúng vô hình. Bạn không thể thấy fascia nạp, hệ thần kinh bắn, hoặc Khí lưu chuyển. Bạn chỉ có thể suy luận chúng từ các hiệu quả của chúng.
 
-Điều này làm cho huấn luyện nội tại đặc biệt thách thức. Trong các môn ngoại gia, tiến bộ thường可见: bạn đấm mạnh hơn, bạn đá cao hơn, bạn di chuyển nhanh hơn. Trong các môn nội gia, tiến bộ thường vô hình cho đến khi đột nhiên không — cho đến ngày huấn luyện viên của bạn nói, "À, giờ bạn đang làm nó," và bạn nhận ra điều gì đó đã thay đổi cơ bản.
+Điều này làm cho huấn luyện nội tại đặc biệt thách thức. Trong các môn ngoại gia, tiến bộ thường có thể thấy ngay: bạn đấm mạnh hơn, bạn đá cao hơn, bạn di chuyển nhanh hơn. Trong các môn nội gia, tiến bộ thường vô hình cho đến khi đột nhiên không — cho đến ngày huấn luyện viên của bạn nói, "À, giờ bạn đang làm nó," và bạn nhận ra điều gì đó đã thay đổi cơ bản.
 
 Sự thay đổi đó đến từ việc luyện tập kiên nhẫn, nhất quán. Không căng, không ép, không cố "có được nó" nhanh chóng. Chỉ xuất hiện, luyện tập đúng, và để cơ thể bạn học theo nhịp điệu riêng của nó.
 

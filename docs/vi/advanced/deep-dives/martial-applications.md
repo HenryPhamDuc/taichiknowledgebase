@@ -24,19 +24,19 @@ Trước khi đi sâu vào từng chuyển động cụ thể, bạn cần hiể
 
 Sự khác biệt chiến lược này giải thích tại sao các chuyển động Thái Cực trông "mềm." Chúng không được thiết kế để áp đảo — chúng được thiết kế để dẫn dắt, làm mất thăng bằng, và kiểm soát.
 
-### Khái Niệm Năng Lượng "Peng" (Peng, 掤)
+### Khái Niệm Năng Lượng "Bổng"
 
-Trước khi bất kỳ ứng dụng nào có ý nghĩa, bạn phải hiểu Peng (掤) — thường được dịch là "năng lượng đỡ đỡ." Peng không phải là một kỹ thuật; nó là một chất lượng của cấu trúc. Tưởng tượng một quả bóng bay: ấn vào nó, và nó hơi lún, nhưng cũng đẩy lại. Nó không xẹp, và không cứng kháng. Nó duy trì hình dạng trong khi linh hoạt.
+Trước khi bất kỳ ứng dụng nào có ý nghĩa, bạn phải hiểu Bổng — thường được dịch là "năng lượng đỡ đỡ." Bổng không phải là một kỹ thuật; nó là một chất lượng của cấu trúc. Tưởng tượng một quả bóng bay: ấn vào nó, và nó hơi lún, nhưng cũng đẩy lại. Nó không xẹp, và không cứng kháng. Nó duy trì hình dạng trong khi linh hoạt.
 
-Năng lượng Peng là cơ thể bạn duy trì chất lượng giống quả bóng này. Cấu trúc của bạn được mở rộng, kết nối, và sống động — không xẹp, không cứng. Mỗi chuyển động Thái Cực Quyền là một biểu hiện của năng lượng Peng theo những hướng và ngữ cảnh khác nhau.
+Năng lượng Bổng là cơ thể bạn duy trì chất lượng giống quả bóng này. Cấu trúc của bạn được mở rộng, kết nối, và sống động — không xẹp, không cứng. Mỗi chuyển động Thái Cực Quyền là một biểu hiện của năng lượng Bổng theo những hướng và ngữ cảnh khác nhau.
 
-Không có Peng, các ứng dụng trở thành cử chỉ rỗng. Có Peng, ngay cả những chuyển động đơn giản cũng trở nên mạnh mẽ.
+Không có Bổng, các ứng dụng trở thành cử chỉ rỗng. Có Bổng, ngay cả những chuyển động đơn giản cũng trở nên mạnh mẽ.
 
 ---
 
 ## Các Ứng Dụng Cốt Lõi: Từng Chuyển Động Một
 
-### 1. Đỡ Đỡ (Peng, 掤)
+### 1. Đỡ Đỡ (Bổng)
 
 **Trông như thế nào:** Một tay cong ra phía trước cơ thể, như đang ôm một quả bóng lớn. Tay kia rests bên hông hoặc đùi.
 
@@ -44,7 +44,7 @@ Không có Peng, các ứng dụng trở thành cử chỉ rỗng. Có Peng, nga
 
 **Ứng dụng thực:** Đỡ Đỡ không phải là chặn; nó là sự chiếm cứ không gian bằng cấu trúc.
 
-Hình dung thế này: đối thủ vươn tay định nắm vai hoặc ngực bạn. Thay vì rút away hoặc gặp lực của họ bằng lực của bạn, bạn duy trì cấu trúc mở rộng (Peng) và xoay eo. Tay bạn không đẩy chống lại tay họ — nó đơn giản chiếm không gian họ đang cố xâm nhập, như một quả bóng bay phồng vào khoảng trống.
+Hình dung thế này: đối thủ vươn tay định nắm vai hoặc ngực bạn. Thay vì rút away hoặc gặp lực của họ bằng lực của bạn, bạn duy trì cấu trúc mở rộng (Bổng) và xoay eo. Tay bạn không đẩy chống lại tay họ — nó đơn giản chiếm không gian họ đang cố xâm nhập, như một quả bóng bay phồng vào khoảng trống.
 
 Vì cấu trúc của bạn được kết nối với chân và eo (không chỉ tay), đối thủ cảm thấy như họ đang đẩy vào toàn bộ cơ thể bạn, không chỉ tay bạn. Điều này tạo ra cảm giác "nặng nề" khiến bạn khó bị di chuyển.
 
@@ -55,7 +55,7 @@ Vì cấu trúc của bạn được kết nối với chân và eo (không ch�
 
 **Nguyên lý chính:** Tay không kháng cự — cấu trúc kháng cự. Tay bạn chỉ là điểm tiếp xúc; toàn bộ cơ thể bạn là sự hỗ trợ.
 
-### 2. Lăn Lùi (Lu, 履)
+### 2. Lăn Lùi (Lộ)
 
 **Trông như thế nào:** Bạn chuyển trọng lượng lùi, cả hai tay di chuyển theo chuyển động tròn, kéo thứ gì đó về phía mình và sang bên.
 
@@ -74,7 +74,7 @@ Chìa khóa là thời điểm: bạn không khởi xướng cú kéo cho đến
 
 **Nguyên lý chính:** Đừng kéo họ — để họ ngã, chỉ dẫn hướng. Đó là sự khác biệt giữa giật cửa mở và né vai để một người đang đẩy vào nó ngã qua.
 
-### 3. Ép (Ji, 擠)
+### 3. Ép (Kỳ)
 
 **Trông như thế nào:** Một tay di chuyển về trước, được tay kia hỗ trợ ở cổ tay hoặc cẳng tay, như đang đẩy thứ gì đó ra xa.
 
@@ -84,7 +84,7 @@ Chìa khóa là thời điểm: bạn không khởi xướng cú kéo cho đến
 
 Sau khi đối thủ đẩy và bạn Lăn Lùi, họ sẽ cố phục hồi thăng bằng. Ép là cơ hội của bạn: khi họ lùi hoặc trở nên hư, bạn tiến lên với toàn bộ cấu trúc cơ thể, lấp đầy khoảng trống họ vừa tạo ra.
 
-Tay bạn không "đẩy" theo nghĩa nỗ lực cơ bắp. Chúng duy trì năng lượng Peng và cơ thể bạn tiến lên, như một con tàu di chuyển về trước. Điểm tiếp xúc (tay bạn) truyền lực của toàn bộ cơ thể bạn đang tiến, không chỉ cơ tay bạn co lại.
+Tay bạn không "đẩy" theo nghĩa nỗ lực cơ bắp. Chúng duy trì năng lượng Bổng và cơ thể bạn tiến lên, như một con tàu di chuyển về trước. Điểm tiếp xúc (tay bạn) truyền lực của toàn bộ cơ thể bạn đang tiến, không chỉ cơ tay bạn co lại.
 
 **Cách kiểm tra:** Sau khi luyện tập Lăn Lùi, để bạn tập phục hồi và tạo khoảng trống. Khi họ lùi, tiến lên với toàn bộ cơ thể, duy trì cấu trúc. Tay bạn nên tiếp xúc ngực hoặc vai họ. Nếu làm đúng:
 - Họ nên cảm thấy như một bức tường đang tiến vào họ, không chỉ tay đẩy
@@ -93,7 +93,7 @@ Tay bạn không "đẩy" theo nghĩa nỗ lực cơ bắp. Chúng duy trì năn
 
 **Nguyên lý chính:** Ép không phải "đánh mạnh" — mà là "chiếm không gian họ vừa từ bỏ, bằng toàn bộ cơ thể."
 
-### 4. Đẩy (An, 按)
+### 4. Đẩy (Án)
 
 **Trông như thế nào:** Cả hai tay di chuyển xuống dưới rồi ra trước, lòng bàn tay hướng ra, như đang đẩy thứ gì đó ra xa.
 
@@ -116,7 +116,7 @@ Nghĩ về nó như đẩy đổ một cái cây: bạn không chỉ đẩy ngan
 
 **Nguyên lý chính:** Đẩy không chỉ là ra trước — mà là "xuống để bám họ, rồi ra trước để topple."
 
-### 5. Roi Đơn (Dan Bian, 單鞭)
+### 5. Roi Đơn (Đơn Tiên)
 
 **Trông như thế nào:** Một tay tạo thành móc (hoặc tay cong) và duỗi ra một bên, tay kia đẩy về trước về phía đối diện, cơ thể hướng về trước với chân dang rộng.
 
@@ -137,7 +137,7 @@ Một ứng dụng khác: hai đối thủ, mỗi bên một người. Tư thế
 
 **Nguyên lý chính:** Roi Đơn không phải là tư thế — mà là "mở rộng từ trung tâm, chia cắt cấu trúc của họ bằng các lực đối nghịch."
 
-### 6. Bạch Hạc Xòe Cánh (Bai He Liang Chi, 白鶴亮翅)
+### 6. Bạch Hạc Xòe Cánh (Bạch Hạc Lượng Cánh)
 
 **Trông như thế nào:** Một tay dâng lên trên đầu, lòng bàn tay hướng xuống; tay kia rests thấp, lòng bàn tay hướng xuống hoặc ra sau; một chân hư, chạm nhẹ.
 
@@ -158,7 +158,7 @@ Chân hư rất quan trọng: nó cho phép bạn nhanh chóng chuyển trọng 
 
 **Nguyên lý chính:** Bạch Hạc không phải là tư thế tĩnh — mà là "mở rộng để tạo không gian và kiểm soát khoảng cách."
 
-### 7. Quét Gối và Bước Xoắn (Lou Xi Ao Bu, 摟膝拗步)
+### 7. Quét Gối và Bước Xoắn (Lâu Xỉ Áo Bộ)
 
 **Trông như thế nào:** Một tay quét qua đầu gối, tay kia đẩy về trước, bước tới với chân đối diện với tay đẩy.
 
@@ -197,7 +197,7 @@ Trong mọi ứng dụng, chú ý điều gì xảy ra khi đối thủ tiếp x
 
 Lăn Lùi là ví dụ rõ nhất: bạn không tạo lực để vượt qua họ; bạn để chính động lượng của họ làm họ mất thăng bằng. Nguyên lý này áp dụng cho mọi ứng dụng: tìm xem họ đang đi đâu, và hỗ trợ họ theo hướng đó.
 
-Điều này thường được gọi là "mượn lực" (Jie Li, 借力). Bạn không đang dùng sức mạnh để áp đảo họ; bạn đang mượn sức mạnh của họ và dẫn hướng lại.
+Điều này thường được gọi là "mượn lực". Bạn không đang dùng sức mạnh để áp đảo họ; bạn đang mượn sức mạnh của họ và dẫn hướng lại.
 
 ### Nguyên Lý 3: Duy Trì Trung Tâm Của Bạn
 
@@ -251,7 +251,7 @@ Bắt đầu với bài tập bước cố định (không di chuyển chân) đ
 
 ### Giai Đoạn 4: Ứng Dụng Tự Do (Tán Thủ)
 
-Tán Thủ (散手) nghĩa là "tay rải rác" — đấu tự do với các nguyên lý Thái Cực Quyền. Đây là nơi bạn kiểm tra ứng dụng của mình đối đầu với các đối thủ không hợp tác, đang di chuyển.
+Tán Thủ nghĩa là "tay rải rác" — đấu tự do với các nguyên lý Thái Cực Quyền. Đây là nơi bạn kiểm tra ứng dụng của mình đối đầu với các đối thủ không hợp tác, đang di chuyển.
 
 Quan trọng: đừng nhảy vào giai đoạn này quá sớm. Không có nền tảng nhạy cảm và cơ học đúng, Tán Thủ chỉ trở thành đánh nhau với tên gọi Thái Cực Quyền. Làm chủ các giai đoạn trước trước tiên.
 
@@ -273,7 +273,7 @@ Quan trọng: đừng nhảy vào giai đoạn này quá sớm. Không có nền
 
 **Nguyên nhân:** Bạn đang nhầm lẫn "nhường" với "xẹp." Nhường có nghĩa là dẫn hướng lại trong khi duy trì cấu trúc; xẹp có nghĩa là mất cấu trúc.
 
-**Cách sửa:** Luyện tập Đỡ Đỡ với áp lực nhẹ. Duy trì năng lượng Peng của bạn — cấu trúc của bạn nên cảm thấy như một quả bóng bay, mềm nhưng mở rộng. Khi áp lực đến, xoay eo để dẫn hướng lại, nhưng đừng để cấu trúc của bạn xẹp.
+**Cách sửa:** Luyện tập Đỡ Đỡ với áp lực nhẹ. Duy trì năng lượng Bổng của bạn — cấu trúc của bạn nên cảm thấy như một quả bóng bay, mềm nhưng mở rộng. Khi áp lực đến, xoay eo để dẫn hướng lại, nhưng đừng để cấu trúc của bạn xẹp.
 
 ### Sai Lầm 3: Đoán Trước Thay Vì Cảm Nhận
 

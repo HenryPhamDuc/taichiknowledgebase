@@ -44,7 +44,7 @@ Chính trong giai đoạn giảng dạy này — đặc biệt là những năm 
 
 ### "Tùng" — Thư Giãn Nhưng Không Xẹp
 
-Nếu phải chọn một từ để tóm tắt toàn bộ giáo lý của Dương Trừng Phủ, đó sẽ là "Tùng" (松). Nhưng "Tùng" không có nghĩa là xẹp, hay lười biếng, hay buông xuôi. "Tùng" là trạng thái thư giãn có ý thức — các cơ không căng cứng, nhưng cấu trúc vẫn duy trì. Tưởng tượng một sợi dây thừng: khi buông lỏng, nó mềm nhưng vẫn có cấu trúc; khi kéo căng, nó cứng nhưng mất đi sự linh hoạt. "Tùng" là điểm cân bằng giữa hai cực đó.
+Nếu phải chọn một từ để tóm tắt toàn bộ giáo lý của Dương Trừng Phủ, đó sẽ là "Tùng". Nhưng "Tùng" không có nghĩa là xẹp, hay lười biếng, hay buông xuôi. "Tùng" là trạng thái thư giãn có ý thức — các cơ không căng cứng, nhưng cấu trúc vẫn duy trì. Tưởng tượng một sợi dây thừng: khi buông lỏng, nó mềm nhưng vẫn có cấu trúc; khi kéo căng, nó cứng nhưng mất đi sự linh hoạt. "Tùng" là điểm cân bằng giữa hai cực đó.
 
 Dương Trừng Phủ thường nói với học sinh: "Đừng dùng lực, hãy dùng ý." Câu nói này nghe có vẻ mâu thuẫn — làm sao có thể di chuyển mà không dùng lực? Nhưng ý của ông là: đừng để lực cơ bắp căng cứng dẫn dắt chuyển động. Thay vào đó, hãy để ý định dẫn dắt, và cơ thể sẽ tìm ra cách di chuyển hiệu quả nhất.
 
@@ -52,7 +52,7 @@ Dương Trừng Phủ thường nói với học sinh: "Đừng dùng lực, hã
 
 ### "Phân Thanh Hư Thực" — Nghệ Thuật Của Sự Phân Biệt
 
-Nguyên tắc "Phân Thanh Hư Thực" (分清虛實) là một trong những đóng góp quan trọng nhất của Dương Trừng Phủ. Nó không chỉ áp dụng cho việc phân bổ trọng lượng giữa hai chân, mà còn cho toàn bộ cách tiếp cận cuộc sống.
+Nguyên tắc "Phân Thanh Hư Thực" là một trong những đóng góp quan trọng nhất của Dương Trừng Phủ. Nó không chỉ áp dụng cho việc phân bổ trọng lượng giữa hai chân, mà còn cho toàn bộ cách tiếp cận cuộc sống.
 
 "Hư" không có nghĩa là vô dụng, và "Thực" không có nghĩa là tốt hơn. Chúng là hai trạng thái bổ sung cho nhau, như âm và dương. Một khoảnh khắc bạn là "Thực" — vững chắc, có trọng lượng, làm nền tảng. Khoảnh khắc sau bạn là "Hư" — nhẹ nhàng, linh hoạt, sẵn sàng di chuyển. Sự chuyển đổi giữa hai trạng thái này phải mượt mà, không có khoảng cách.
 
@@ -64,11 +64,11 @@ Trong cuộc sống, nguyên tắc này cũng áp dụng được. Có những l
 
 ### "Dụng Ý Bất Dụng Lực" — Tâm Dẫn Dắt, Thân Theo Sau
 
-"Dụng Ý Bất Dụng Lực" (用意不用力) có lẽ là nguyên tắc bị hiểu lầm nhiều nhất của Dương Trừng Phủ. Nhiều người nghĩ rằng ông dạy "không dùng sức" — điều này vô lý vì không có sức thì làm sao di chuyển? Nhưng ý của ông tinh tế hơn thế.
+"Dụng Ý Bất Dụng Lực" có lẽ là nguyên tắc bị hiểu lầm nhiều nhất của Dương Trừng Phủ. Nhiều người nghĩ rằng ông dạy "không dùng sức" — điều này vô lý vì không có sức thì làm sao di chuyển? Nhưng ý của ông tinh tế hơn thế.
 
-"Lực" (力) ở đây chỉ loại sức mạnh cơ bắp căng cứng, tách rời, và thường là phản ứng vô thức. Khi bạn bị đẩy và ngay lập tức đẩy lại bằng cơ bắp, đó là "Lực". Khi bạn nâng một vật nặng và gồng toàn bộ cơ thể, đó là "Lực". "Lực" không sai — nó cần thiết trong nhiều tình huống — nhưng nó không phải là loại sức mạnh mà Thái Cực Quyền muốn phát triển.
+"Lực" ở đây chỉ loại sức mạnh cơ bắp căng cứng, tách rời, và thường là phản ứng vô thức. Khi bạn bị đẩy và ngay lập tức đẩy lại bằng cơ bắp, đó là "Lực". Khi bạn nâng một vật nặng và gồng toàn bộ cơ thể, đó là "Lực". "Lực" không sai — nó cần thiết trong nhiều tình huống — nhưng nó không phải là loại sức mạnh mà Thái Cực Quyền muốn phát triển.
 
-"Ý" (意) là ý định có ý thức, là sự chỉ đạo của tâm trí. Khi bạn dùng "Ý", bạn không gồng cơ một cách vô thức. Bạn hình dung chuyển động trước, bạn cảm nhận dòng năng lượng, bạn để cơ thể di chuyển một cách tự nhiên theo sự chỉ đạo đó. Cơ bắp vẫn làm việc, nhưng chúng làm việc một cách phối hợp, không căng cứng.
+"Ý" là ý định có ý thức, là sự chỉ đạo của tâm trí. Khi bạn dùng "Ý", bạn không gồng cơ một cách vô thức. Bạn hình dung chuyển động trước, bạn cảm nhận dòng năng lượng, bạn để cơ thể di chuyển một cách tự nhiên theo sự chỉ đạo đó. Cơ bắp vẫn làm việc, nhưng chúng làm việc một cách phối hợp, không căng cứng.
 
 Ví dụ: khi nâng tay lên, thay vì nghĩ "nâng tay lên bằng cơ vai", hãy nghĩ "năng lượng từ chân đi lên qua eo, qua lưng, ra tay". Sự khác biệt là ở chỗ: cách đầu tiên cô lập chuyển động ở vai; cách thứ hai kết nối toàn bộ cơ thể trong một chuỗi chuyển động.
 
@@ -138,7 +138,7 @@ Sự chuyển hóa này quan trọng vì nó làm cho kinh điển trở nên ti
 
 ### Ví Dụ: Từ "Nhất Khí Ha Quán" Đến "Tùng Yêu"
 
-Kinh điển cũng nói về "Nhất khí ha quán" — một hơi đi xuống贯穿 toàn thân. Dương Trừng Phủ chuyển hóa thành "Tùng Yêu" — thả lỏng eo. Vì sao? Vì eo là cửa ngõ để khí đi xuống. Nếu eo căng, khí bị chặn ở ngực. Nếu eo tùng, khí tự nhiên đi xuống đan điền.
+Kinh điển cũng nói về "Nhất khí ha quán" — một hơi đi xuống xuyên suốt toàn thân. Dương Trừng Phủ chuyển hóa thành "Tùng Yêu" — thả lỏng eo. Vì sao? Vì eo là cửa ngõ để khí đi xuống. Nếu eo căng, khí bị chặn ở ngực. Nếu eo tùng, khí tự nhiên đi xuống đan điền.
 
 Cách diễn giải này cho thấy sự hiểu biết sâu sắc của Dương Trừng Phủ về cả kinh điển lẫn giải phẫu học. Ông không chỉ lặp lại lời cổ nhân — ông hiểu bản chất và truyền đạt theo cách người hiện đại có thể thực hành.
 
@@ -168,9 +168,9 @@ Sự chuyển đổi từ võ thuật sang dưỡng sinh này không làm mất 
 
 ### Những Thách Thức Trong Việc Bảo Tồn Di Sản
 
-Tuy nhiên, sự phổ biến rộng rãi cũng mang lại thách thức. Khi Thái Cực Quyền được dạy cho số đông, nhiều khi phần "võ" bị淡化 (làm mờ đi), chỉ còn lại phần "vũ" (múa). Nhiều người tập Thái Cực Quyền như một bài thể dục chậm, không hiểu nguyên lý đằng sau, không biết ứng dụng, và không cảm nhận được chiều sâu nội tại.
+Tuy nhiên, sự phổ biến rộng rãi cũng mang lại thách thức. Khi Thái Cực Quyền được dạy cho số đông, nhiều khi phần "võ" bị phai nhạt đi, chỉ còn lại phần "vũ" (múa). Nhiều người tập Thái Cực Quyền như một bài thể dục chậm, không hiểu nguyên lý đằng sau, không biết ứng dụng, và không cảm nhận được chiều sâu nội tại.
 
-Bảo tồn di sản của Dương Trừng Phủ không có nghĩa là giữ Thái Cực Quyền như một bảo tàng — nó có nghĩa là duy trì sự cân bằng giữa tính tiếp cận (để nhiều người受益) và tính chính thống (để không bị biến chất). Điều này đòi hỏi những người thầy hiện đại phải vừa có khả năng truyền đạt cho số đông, vừa có hiểu biết sâu về nguyên lý và ứng dụng.
+Bảo tồn di sản của Dương Trừng Phủ không có nghĩa là giữ Thái Cực Quyền như một bảo tàng — nó có nghĩa là duy trì sự cân bằng giữa tính tiếp cận (để nhiều người được thụ hưởng) và tính chính thống (để không bị biến chất). Điều này đòi hỏi những người thầy hiện đại phải vừa có khả năng truyền đạt cho số đông, vừa có hiểu biết sâu về nguyên lý và ứng dụng.
 
 ---
 

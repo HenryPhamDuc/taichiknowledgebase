@@ -51,7 +51,7 @@ Nhưng Thái Cực Quyền đang tối ưu hóa một thứ khác.
 
 ## Sức Mạnh Nội Gia: Mô Hình Thái Cực Quyền
 
-Sức mạnh nội gia (thường được gọi là "Jin" 勁 trong tiếng Trung, phân biệt với "Li" 力, nghĩa là lực cơ bắp thô) vận hành theo các nguyên lý hoàn toàn khác biệt.
+Sức mạnh nội gia (thường được gọi là "Kình", phân biệt với "Lực", nghĩa là lực cơ bắp thô) vận hành theo các nguyên lý hoàn toàn khác biệt.
 
 ### Mô Hình Nội Gia
 
@@ -59,7 +59,7 @@ Sức mạnh nội gia tạo lực thông qua:
 
 1. **Cấu trúc, không phải co contraction** — Sức mạnh đến từ việc căn chỉnh xương và mô liên kết để lực truyền hiệu quả, không phải từ cơ bắp co lại
 2. **Kết nối với đất** — Sức mạnh bắt nguồn từ chân đẩy vào đất, truyền qua cơ thể đến điểm tiếp xúc
-3. **Thư giãn (Song, 鬆)** — Cơ bắp thư giãn, không căng thẳng, cho phép lực chảy mà không bị cản trở
+3. **Thư giãn (Tùng)** — Cơ bắp thư giãn, không căng thẳng, cho phép lực chảy mà không bị cản trở
 4. **Sự thống nhất toàn thân** — Toàn bộ cơ thể di chuyển như một khối kết nối, không phải các phần riêng biệt tuần tự
 5. **Nhường và dẫn hướng** — Thay vì gặp lực trực tiếp, bạn dẫn hướng lại, dùng năng lượng của đối thủ chống lại họ
 
@@ -127,23 +127,23 @@ Hiểu về mặt trí tuệ khác với cảm nhận về mặt vật lý. Hãy
 
 ---
 
-## Vai Trò Của Thư Giãn (Song, 鬆)
+## Vai Trò Của Thư Giãn (Tùng)
 
 Nếu bạn chỉ ghi nhớ một điều từ bài viết này, hãy để điều đó là: **thư giãn không phải là yếu đuối trong Thái Cực Quyền — nó là nền tảng của sức mạnh.**
 
 Điều này có vẻ ngược đời. Làm sao việc thư giãn có thể làm bạn mạnh hơn?
 
-### Song Là Gì (Và Không Phải Gì)
+### Tùng Là Gì (Và Không Phải Gì)
 
-Song (鬆) thường được dịch là "thư giãn," nhưng điều đó gây hiểu lầm. Nó không có nghĩa là rũ ra hoặc xẹp. Một bản dịch tốt hơn có thể là "thư giãn chủ động" hoặc "sự tỉnh táo mềm dẻo."
+Tùng thường được dịch là "thư giãn," nhưng điều đó gây hiểu lầm. Nó không có nghĩa là rũ ra hoặc xẹp. Một bản dịch tốt hơn có thể là "thư giãn chủ động" hoặc "sự tỉnh táo mềm dẻo."
 
-**Song KHÔNG PHẢI là:**
+**Tùng KHÔNG PHẢI là:**
 - Rũ ra hoặc mềm nhũn
 - Vô thức hoặc buồn ngủ
 - Cấu trúc sụp đổ
 - Thiếu sự tham gia
 
-**Song LÀ:**
+**Tùng LÀ:**
 - Tự do khỏi căng thẳng không cần thiết
 - Cấu trúc kết nối mà không cứng nhắc
 - Sự hiện diện tỉnh táo, sống động
@@ -164,9 +164,9 @@ Căng thẳng ngăn cản truyền lực theo nhiều cách:
 
 **5. Căng thẳng giảm nhạy cảm.** Một tay căng không thể cảm nhận những thay đổi tinh tế về áp lực. Một tay thư giãn có thể phát hiện sự dịch chuyển nhỏ nhất trong lực của bạn tập, cho phép bạn phản ứng thích hợp.
 
-### Phát Triển Song: Các Bước Thực Tế
+### Phát Triển Tùng: Các Bước Thực Tế
 
-Song không phải là thứ bạn đạt được một lần — nó là một việc luyện tập liên tục. Đây là cách phát triển nó:
+Tùng không phải là thứ bạn đạt được một lần — nó là một việc luyện tập liên tục. Đây là cách phát triển nó:
 
 **Bước 1: Quét Cơ Thể**
 Đứng trong tư thế Vô Cực (chân rộng bằng vai, tay hai bên, đầu gối hơi cong). Nhắm mắt. Quét cơ thể từ đầu đến chân, chú ý các vùng căng thẳng. Những thủ phạm phổ biến: hàm, vai, hông, đầu gối. Có ý thức giải phóng từng vùng.
@@ -175,28 +175,28 @@ Song không phải là thứ bạn đạt được một lần — nó là một
 Đứng thư giãn. Để tay bạn hoàn toàn rũ xuống. Nhẹ nhàng xoay eo trái và phải, để tay bạn vung như con lắc. Chúng nên di chuyển từ việc xoay eo, không phải cơ tay. Điều này dạy tay bạn được "treo" từ vai, không phải được giữ lên bằng căng thẳng.
 
 **Bước 3: Áp Lực Bạn Tập**
-Nhờ một bạn tập đẩy nhẹ vào các phần khác nhau của cơ thể bạn (vai, tay, lưng). Nhiệm vụ của bạn: duy trì hoàn toàn thư giãn trong khi giữ cấu trúc. Nếu bạn bị đẩy, đừng kháng cự — dẫn hướng bằng cách chuyển trọng lượng hoặc xoay eo. Điều này huấn luyện bạn duy trì Song dưới áp lực.
+Nhờ một bạn tập đẩy nhẹ vào các phần khác nhau của cơ thể bạn (vai, tay, lưng). Nhiệm vụ của bạn: duy trì hoàn toàn thư giãn trong khi giữ cấu trúc. Nếu bạn bị đẩy, đừng kháng cự — dẫn hướng bằng cách chuyển trọng lượng hoặc xoay eo. Điều này huấn luyện bạn duy trì Tùng dưới áp lực.
 
 **Bước 4: Luyện Tập Quyền**
 Luyện tập quyền Thái Cực Quyền của bạn với ý định dùng sức căng cơ bằng không trong tay. Di chuyển chúng chỉ bằng xoay eo và chuyển trọng lượng. Nếu tay bạn cảm thấy nặng và "sống động," bạn đang đi đúng hướng. Nếu chúng cảm thấy nhẹ và ngắt kết nối, bạn có lẽ đang căng ở đâu đó.
 
 ---
 
-## Vai Trò Của Cấu Trúc (Peng, 掤)
+## Vai Trò Của Cấu Trúc (Bổng)
 
-Nếu Song là sự vắng mặt của căng thẳng không cần thiết, Peng là sự hiện diện của cấu trúc tối ưu.
+Nếu Tùng là sự vắng mặt của căng thẳng không cần thiết, Bổng là sự hiện diện của cấu trúc tối ưu.
 
-### Peng Là Gì
+### Bổng Là Gì
 
-Peng (掤) thường được dịch là "năng lượng đỡ đỡ," nhưng giống Song, điều này gây hiểu lầm. Peng không phải là một kỹ thuật — nó là một chất lượng của cấu trúc.
+Bổng thường được dịch là "năng lượng đỡ đỡ," nhưng giống Tùng, điều này gây hiểu lầm. Bổng không phải là một kỹ thuật — nó là một chất lượng của cấu trúc.
 
 Tưởng tượng một bánh xe đạp: vành là cơ thể bên ngoài của bạn (da, cơ), trục là trung tâm của bạn (Đan Điền, cột sống), và nan hoa là mô liên kết của bạn (fascia, gân, dây chằng). Khi được căng đúng, các nan hoa tạo ra một cấu trúc vừa mạnh vừa linh hoạt. Ấn vào vành, và toàn bộ bánh xe hỗ trợ tải, không chỉ một nan hoa.
 
-Peng là cơ thể bạn duy trì cấu trúc giống bánh xe này. Mở rộng, kết nối, sống động. Không xẹp (nan hoa lỏng), không cứng (nan hoa căng quá mức sẽ gãy).
+Bổng là cơ thể bạn duy trì cấu trúc giống bánh xe này. Mở rộng, kết nối, sống động. Không xẹp (nan hoa lỏng), không cứng (nan hoa căng quá mức sẽ gãy).
 
-### Peng vs. Căng Thẳng
+### Bổng vs. Căng Thẳng
 
-Điều này rất quan trọng: Peng không phải là căng thẳng. Căng thẳng là sự co cơ cục bộ. Peng là tính toàn vẹn cấu trúc hệ thống.
+Điều này rất quan trọng: Bổng không phải là căng thẳng. Căng thẳng là sự co cơ cục bộ. Bổng là tính toàn vẹn cấu trúc hệ thống.
 
 **Căng thẳng:**
 - Được tạo ra bởi co cơ
@@ -205,14 +205,14 @@ Peng là cơ thể bạn duy trì cấu trúc giống bánh xe này. Mở rộng
 - Ngăn cản truyền lực
 - Cảm thấy cứng khi chạm vào
 
-**Peng:**
+**Bổng:**
 - Được tạo ra bởi sự căn chỉnh và tham gia của mô liên kết
 - Hệ thống (toàn cơ thể kết nối)
 - Có thể được duy trì vô thời hạn
 - Truyền lực hiệu quả
 - Cảm thấy mở rộng và đàn hồi khi chạm vào
 
-### Phát Triển Peng: Các Bước Thực Tế
+### Phát Triển Bổng: Các Bước Thực Tế
 
 **Bước 1: Hình Dung Quả Bóng Bay**
 Đứng trong tư thế Vô Cực. Tưởng tượng một quả bóng bay lớn bên trong thân bạn, nhẹ nhàng phồng ra mọi hướng. Nó đang đẩy xương sườn của bạn hơi ra apart, cột sống của bạn hơi lên, vai của bạn hơi ra. Không ép — chỉ nhẹ nhàng phồng. Duy trì cảm giác này khi bạn di chuyển.
@@ -223,16 +223,16 @@ Nhờ một bạn tập đẩy nhẹ vào cẳng tay bạn trong khi bạn giữ
 - Tưởng tượng tay bạn là một dầm thép nối với hông bạn
 - Xoay eo hơi, dẫn lực của họ
 
-Nếu Peng hiện diện, bạn tập sẽ cảm thấy như họ đang đẩy vào toàn bộ cơ thể bạn, không chỉ tay bạn. Tay bạn sẽ không xẹp, nhưng nó cũng không căng.
+Nếu Bổng hiện diện, bạn tập sẽ cảm thấy như họ đang đẩy vào toàn bộ cơ thể bạn, không chỉ tay bạn. Tay bạn sẽ không xẹp, nhưng nó cũng không căng.
 
 **Bước 3: Tích Hợp Vào Quyền**
-Khi bạn luyện tập quyền của mình, hãy hỏi: "Tôi có đang duy trì Peng trong suốt không?" Các điểm phá vỡ phổ biến:
+Khi bạn luyện tập quyền của mình, hãy hỏi: "Tôi có đang duy trì Bổng trong suốt không?" Các điểm phá vỡ phổ biến:
 - Tay xẹp ở khuỷu tay
 - Vai dâng lên phía tai
 - Ngực xẹp hoặc phồng quá mức
 - Lưng dưới cong hoặc cuộn quá mức
 
-Peng nên cảm thấy như cơ thể bạn đang nhẹ nhàng phồng ra mọi hướng, như quả bóng bay, trong suốt toàn bộ quyền.
+Bổng nên cảm thấy như cơ thể bạn đang nhẹ nhàng phồng ra mọi hướng, như quả bóng bay, trong suốt toàn bộ quyền.
 
 ---
 
@@ -283,43 +283,43 @@ Tương tự, trong chiến đấu Thái Cực Quyền, bạn không đối đ�
 
 Sức mạnh nội gia không phải là thứ bạn sinh ra có — nó là thứ bạn phát triển thông qua các phương pháp huấn luyện cụ thể.
 
-### Thiền Đứng (Zhan Zhuang, 站樁)
+### Thiền Đứng (Trụ Vô Cực)
 
-**Là gì:** Đứng trong các tư thế khác nhau trong thời gian dài (5 phút đến một giờ), duy trì Song và Peng.
+**Là gì:** Đứng trong các tư thế khác nhau trong thời gian dài (5 phút đến một giờ), duy trì Tùng và Bổng.
 
 **Tại sao nó hoạt động:** Thiền đứng phát triển:
 - Sức mạnh và sức bền chân (nền tảng của sức mạnh nội gia)
 - Nhận thức về các mẫu căng thẳng (bạn nhanh chóng học được nơi bạn đang giữ không cần thiết)
-- Cấu trúc Peng (duy trì tư thế phồng dưới sự mệt mỏi)
+- Cấu trúc Bổng (duy trì tư thế phồng dưới sự mệt mỏi)
 - Tập trung tinh thần và nhận thức cơ thể
 
 **Cách bắt đầu:** Bắt đầu với tư thế Vô Cực (mô tả ở trên). Bắt đầu với 3-5 phút, tăng dần. Tập trung vào thư giãn và cấu trúc, không phải thời lượng. Chất lượng hơn số lượng.
 
-### Luyện Tập Quyền (Quan, 拳)
+### Luyện Tập Quyền (Bài quyền)
 
 **Là gì:** Luyện tập quyền Thái Cực Quyền chậm, với sự chú ý đến cơ học nội tại.
 
 **Tại sao nó hoạt động:** Luyện tập chậm cho phép bạn:
 - Phát hiện và giải phóng căng thẳng
-- Duy trì cấu trúc Peng liên tục
+- Duy trì cấu trúc Bổng liên tục
 - Phối hợp chuyển động toàn thân
 - Phát triển nhạy cảm với trạng thái nội tại của chính bạn
 
 **Điểm chính:** Luyện tập chậm không phải là về di chuyển chậm — nó là về duy trì nhận thức nội tại trong suốt chuyển động. Tốc độ không liên quan; nhận thức là tất cả.
 
-### Đẩy Tay (Tui Shou, 推手)
+### Đẩy Tay (Thôi Thủ)
 
 **Là gì:** Một bài tập hai người nơi bạn duy trì tiếp xúc với tay đối thủ và cố gắng làm mất thăng bằng nhau trong khi duy trì thăng bằng của chính mình.
 
 **Tại sao nó hoạt động:** Đẩy tay phát triển:
 - Nhạy cảm với lực bên ngoài (cảm nhận ý định của đối thủ)
-- Ứng dụng Song và Peng dưới áp lực
+- Ứng dụng Tùng và Bổng dưới áp lực
 - Quản lý thời điểm và khoảng cách
 - Khả năng nhường và dẫn hướng lại mà không sụp đổ
 
 **Sai lầm phổ biến:** Nhiều võ sinh biến đẩy tay thành một cuộc đấu vật, dùng sức mạnh để đẩy và kéo. Điều này làm mất mục đích. Đẩy tay nên chậm và nhạy cảm, tập trung vào cảm nhận và dẫn hướng lại, không phải áp đảo.
 
-### Quyển Tơ (Chan Si Gong, 纏絲功)
+### Cuốn Tơ (Bài tập cuốn tơ Trần gia)
 
 **Là gì:** Các chuyển động xoắn ốc, tròn huấn luyện cơ thể di chuyển như một khối thống nhất với sức mạnh liên tục, kết nối.
 
@@ -382,8 +382,8 @@ Các võ sĩ giỏi nhất thường tích hợp cả hai. Sức mạnh ngoại 
 
 Đây là quan niệm sai lầm nguy hiểm nhất.
 
-Song (thư giãn) là cần thiết nhưng không đủ. Bạn cũng cần:
-- **Cấu trúc** (Peng) — thư giãn không có cấu trúc chỉ là sụp đổ
+Tùng (thư giãn) là cần thiết nhưng không đủ. Bạn cũng cần:
+- **Cấu trúc** (Bổng) — thư giãn không có cấu trúc chỉ là sụp đổ
 - **Sức mạnh chân** — sức mạnh nội gia bắt nguồn từ chân
 - **Phối hợp** — sự thống nhất toàn thân không tự động xảy ra
 - **Nhạy cảm** — phát triển qua luyện tập với bạn tập
@@ -411,7 +411,7 @@ Huấn luyện sức mạnh nội gia dạy bạn xác định và giải phóng
 
 Tư thế kém (vai slump, đầu về trước, ngực sụp đổ) là một vấn đề cấu trúc. Nó không chỉ là "đứng thẳng" — nó là về căn chỉnh bộ xương của bạn để trọng lượng của bạn được hỗ trợ hiệu quả, không phải được giữ lên bằng căng cơ.
 
-Huấn luyện Peng phát triển sự căn chỉnh này. Khi cấu trúc của bạn cải thiện, tư thế trở nên effortless, không phải một cuộc đấu tranh liên tục của "vai ra sau, cằm lên."
+Huấn luyện Bổng phát triển sự căn chỉnh này. Khi cấu trúc của bạn cải thiện, tư thế trở nên effortless, không phải một cuộc đấu tranh liên tục của "vai ra sau, cằm lên."
 
 ### Chuyển Động Và Lão Hóa
 
@@ -429,7 +429,7 @@ Không có thứ nào trong số này yêu cầu sợi cơ trẻ hoặc khả n�
 
 Căng thẳng mãn tính vừa là triệu chứng vừa là nguyên nhân của căng thẳng mãn tính. Hệ thần kinh của bạn bị mắc kẹt trong một mẫu giao cảm (chiến đấu hoặc bỏ chạy), giữ cơ bắp căng, nhịp tim tăng, và hormone căng thẳng chảy.
 
-Huấn luyện Song kích hoạt hệ thần kinh phó giao cảm (nghỉ ngơi và tiêu hóa). Khi bạn học cách giải phóng căng thẳng theo lệnh, phản ứng căng thẳng của bạn trở nên cân bằng hơn. Điều này có tác động downstream đến giấc ngủ, tiêu hóa, miễn dịch, và sức khỏe tâm thần.
+Huấn luyện Tùng kích hoạt hệ thần kinh phó giao cảm (nghỉ ngơi và tiêu hóa). Khi bạn học cách giải phóng căng thẳng theo lệnh, phản ứng căng thẳng của bạn trở nên cân bằng hơn. Điều này có tác động downstream đến giấc ngủ, tiêu hóa, miễn dịch, và sức khỏe tâm thần.
 
 ---
 
