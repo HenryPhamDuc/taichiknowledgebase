@@ -65,4 +65,4 @@ Góp ý luôn được chào đón. Nếu có chủ đề bạn muốn thấy đ
 
 ---
 
-[← Quay lại Tổng Quan Tinh Hoa](../index.md) · [English: Elite Deep Dives →](../../../../en/elite/deep-dives/index.md)
+[← Quay lại Tổng Quan Tinh Hoa](../index.md) · [English: Elite Deep Dives →](../../elite/deep-dives/index.md)

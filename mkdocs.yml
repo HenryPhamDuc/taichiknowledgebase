@@ -4,6 +4,7 @@ site_author: Henry Pham
 docs_dir: docs
 site_dir: site
 use_directory_urls: false
+
 theme:
   name: material
   palette:
@@ -12,10 +13,11 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - navigation.expand
     - navigation.indexes
     - search.highlight
     - search.suggest
+  language: en
+
 markdown_extensions:
   - toc:
       permalink: true
@@ -25,39 +27,50 @@ markdown_extensions:
   - pymdownx.details
   - tables
   - footnotes
-extra:
-  alternate:
-    - name: English
-      link: /taichiknowledgebase/en/foundation/basics/index.html
-      lang: en
-    - name: Tiếng Việt
-      link: /taichiknowledgebase/vi/foundation/basics/index.html
-      lang: vi
+
+plugins:
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+          nav_translations:
+            Home: Home
+            Foundation: Foundation
+            Overview: Overview
+            Basics: Basics
+            'Deep Dives': Deep Dives
+            Advanced: Advanced
+            Elite: Elite
+            Taichi: Taichi
+        - locale: vi
+          name: Tiếng Việt
+          build: true
+          nav_translations:
+            Home: Trang Chủ
+            Foundation: Nền Tảng
+            Overview: Tổng Quan
+            Basics: Cơ Bản
+            'Deep Dives': Chuyên Sâu
+            Advanced: Cao Cấp
+            Elite: Tinh Hoa
+            Taichi: Thái Cực
+      fallback_to_default: true
+
 nav:
   - Home: index.md
-  
-  - Thư Viện Kiến Thức Thái Cực Quyền: https://henryphamduc.github.io/taichiknowledgebase/vi/index.html
+  - Taichi: taichi/index.md
   - Foundation:
-    - Overview: en/foundation/index.md
-    - Basics:
-      - en/foundation/basics/index.md
-      - vi/foundation/basics/index.md
-    - Deep Dives:
-      - en/foundation/deep-dives/index.md
-      - vi/foundation/deep-dives/index.md
+      - Overview: foundation/index.md
+      - Basics: foundation/basics/index.md
+      - Deep Dives: foundation/deep-dives/index.md
   - Advanced:
-    - Overview: en/advanced/index.md
-    - Basics:
-      - en/advanced/basics/index.md
-      - vi/advanced/basics/index.md
-    - Deep Dives:
-      - en/advanced/deep-dives/index.md
-      - vi/advanced/deep-dives/index.md
+      - Overview: advanced/index.md
+      - Basics: advanced/basics/index.md
+      - Deep Dives: advanced/deep-dives/index.md
   - Elite:
-    - Overview: en/elite/index.md
-    - Basics:
-      - en/elite/basics/index.md
-      - vi/elite/basics/index.md
-    - Deep Dives:
-      - en/elite/deep-dives/index.md
-      - vi/elite/deep-dives/index.md
+      - Overview: elite/index.md
+      - Basics: elite/basics/index.md
+      - Deep Dives: elite/deep-dives/index.md

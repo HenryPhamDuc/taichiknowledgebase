@@ -55,4 +55,4 @@ Góp ý luôn được chào đón. Nếu có chủ đề bạn muốn có bài 
 
 ---
 
-[← Quay lại Tổng Quan Cao Cấp](../index.md) · [English: Advanced Deep Dives →](../../../../en/advanced/deep-dives/index.md)
+[← Quay lại Tổng Quan Cao Cấp](../index.md) · [English: Advanced Deep Dives →](../../advanced/deep-dives/index.md)

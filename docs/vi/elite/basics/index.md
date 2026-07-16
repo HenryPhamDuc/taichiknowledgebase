@@ -94,4 +94,4 @@ Không có gì vội vàng. Chưa bao giờ có.
 
 ---
 
-[← Quay lại Tổng Quan Tinh Hoa](../index.md) · [English: Elite Basics →](../../../../en/elite/basics/index.md)
+[← Quay lại Tổng Quan Tinh Hoa](../index.md) · [English: Elite Basics →](../../elite/basics/index.md)

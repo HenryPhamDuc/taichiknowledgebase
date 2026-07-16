@@ -79,4 +79,4 @@ Không có phần thưởng cho việc nhanh. Bản thân công việc là phầ
 
 ---
 
-**Cần thêm nền tảng?** [Quay lại cơ bản →](../foundation/index.md) · **Cấp Cao Cấp:** [Cấp Độ Cao Cấp →](../advanced/index.md) · **English:** [Elite Level →](../../../../en/elite/index.md)
+**Cần thêm nền tảng?** [Quay lại cơ bản →](../foundation/index.md) · **Cấp Cao Cấp:** [Cấp Độ Cao Cấp →](../advanced/index.md) · **English:** [Elite Level →](../../elite/index.md)

@@ -73,4 +73,4 @@ Khi điều gì đó không có ý nghĩa, hãy gạt sang một bên. Tiếp t�
 
 ---
 
-**Nền tảng chưa vững?** [Quay lại cơ bản →](../foundation/index.md) · **Cấp Tinh Hoa:** [Cấp Độ Tinh Hoa →](../elite/index.md) · **English:** [Advanced Level →](../../../../en/advanced/index.md)
+**Nền tảng chưa vững?** [Quay lại cơ bản →](../foundation/index.md) · **Cấp Tinh Hoa:** [Cấp Độ Tinh Hoa →](../elite/index.md) · **English:** [Advanced Level →](../../advanced/index.md)

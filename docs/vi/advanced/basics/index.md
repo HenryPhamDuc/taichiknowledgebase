@@ -89,4 +89,4 @@ Hãy dành thời gian. Không có phần thưởng nào cho việc nhanh.
 
 ---
 
-[← Quay lại Tổng Quan Cao Cấp](../index.md) · [English: Advanced Basics →](../../../../en/advanced/basics/index.md)
+[← Quay lại Tổng Quan Cao Cấp](../index.md) · [English: Advanced Basics →](../../advanced/basics/index.md)
