@@ -89,4 +89,4 @@ Take your time. There is no prize for being fast.
 
 ---
 
-[← Return to Advanced Overview](../index.md) · [Vietnamese: Cơ Bản Cao Cấp →](../../../vi/advanced/basics/index.html)
+[← Return to Advanced Overview](../index.md) · [Vietnamese: Cơ Bản Cao Cấp →](../../../vi/advanced/basics/)

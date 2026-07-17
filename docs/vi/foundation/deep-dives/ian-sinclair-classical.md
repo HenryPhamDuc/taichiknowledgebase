@@ -559,4 +559,4 @@ Chuỗi Thái Cực Quyền Cổ Điển của Ian Sinclair cung cấp một con
 
 **Trích dẫn:** Sinclair, Ian. Classical Tai Chi Chuan Series [Video teachings]. Various platforms.
 
-[← Quay Lại: Chuyên Sâu Nền Tảng](../index.html) · [English version →](../../../en/foundation/deep-dives/ian-sinclair-classical.html)
+[← Quay Lại: Chuyên Sâu Nền Tảng](../) · [English version →](../../../en/foundation/deep-dives/ian-sinclair-classical/)

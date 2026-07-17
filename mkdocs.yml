@@ -46,7 +46,6 @@ plugins:
             Advanced: Advanced
             Elite: Elite
             Taichi: Taichi
-            'Thư Viện Kiến Thức Thái Cực Quyền': 'Thư Viện Kiến Thức Thái Cực Quyền'
         - locale: vi
           name: Tiếng Việt
           build: true
@@ -59,8 +58,6 @@ plugins:
             Advanced: Cao Cấp
             Elite: Tinh Hoa
             Taichi: Thái Cực
-            'Thư Viện Kiến Thức Thái Cực Quyền': 'Thư Viện Kiến Thức Thái Cực Quyển'
-            'Tai Chi Knowledge Base': 'Tai Chi Knowledge Base'   # NEW LINK
       fallback_to_default: true
 
 nav:
@@ -78,5 +75,3 @@ nav:
       - Overview: elite/index.md
       - Basics: elite/basics/index.md
       - Deep Dives: elite/deep-dives/index.md
-  - 'Thư Viện Kiến Thức Thái Cực Quyền': https://henryphamduc.github.io/taichiknowledgebase/vi/index.html
-  - 'Tai Chi Knowledge Base': https://henryphamduc.github.io/taichiknowledgebase/en/index.html   # NEW LINK AT END

@@ -34,14 +34,14 @@ The Yang family master's articulation of core Tai Chi principles:
 
 A four-part deep-dive into the teaching framework of Ian Sinclair — one of the clearest Western voices on traditional Yang-style Tai Chi. His work bridges classical form and modern biomechanics, traditional principles and physical verification. Use this series when you want to think more carefully about *why* what you are doing works, not just *how* to do it.
 
-**[The complete Ian Sinclair series overview →](ian-sinclair.html)**
+**[The complete Ian Sinclair series overview →](ian-sinclair/)**
 
 The four articles, in order:
 
-1. **[Classical Tai Chi Chuan](ian-sinclair-classical.html)** — The Yang family framework, foundational principles, detailed form breakdowns
-2. **[Biomechanics of Tai Chi Movement](ian-sinclair-biomechanics.html)** — The physical foundation: structure, weight transfer, ground reaction forces
-3. **[Mechanics & Principles](ian-sinclair-mechanics.html)** — Jin (internal force), waist-directed power, whole-body coordination
-4. **[Advanced Applications](ian-sinclair-advanced.html)** — Push hands, fa jin, sensitivity, the martial interpretation of form
+1. **[Classical Tai Chi Chuan](ian-sinclair-classical/)** — The Yang family framework, foundational principles, detailed form breakdowns
+2. **[Biomechanics of Tai Chi Movement](ian-sinclair-biomechanics/)** — The physical foundation: structure, weight transfer, ground reaction forces
+3. **[Mechanics & Principles](ian-sinclair-mechanics/)** — Jin (internal force), waist-directed power, whole-body coordination
+4. **[Advanced Applications](ian-sinclair-advanced/)** — Push hands, fa jin, sensitivity, the martial interpretation of form
 
 ## Biomechanics of Tai Chi
 
@@ -107,4 +107,4 @@ Curated tutorials from your playlist:
 
 ---
 
-**Vietnamese version:** [Chuyên Sâu Tiếng Việt →](../../../vi/foundation/deep-dives/index.html)
+**Vietnamese version:** [Chuyên Sâu Tiếng Việt →](../../../vi/foundation/deep-dives/)

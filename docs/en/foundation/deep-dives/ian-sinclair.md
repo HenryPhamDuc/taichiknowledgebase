@@ -16,7 +16,7 @@ Each article stands on its own, but they build on each other. Read them in order
 
 ### 1. Classical Tai Chi Chuan — The Yang Family Framework
 
-**[Ian Sinclair's Classical Tai Chi Chuan Series →](ian-sinclair-classical.html)**
+**[Ian Sinclair's Classical Tai Chi Chuan Series →](ian-sinclair-classical/)**
 
 Where to begin if you are new to Sinclair's teaching. This article covers the Classical Framework, the traditional Yang Chengfu lineage, and the foundational principles that the rest of his work assumes you know. It includes detailed form breakdowns with biomechanical precision, the integration of martial applications within health practice, and clear progressions from beginner to advanced levels.
 
@@ -24,7 +24,7 @@ Start here if you want to understand how Sinclair thinks about form.
 
 ### 2. Biomechanics — The Physical Foundation
 
-**[Biomechanics of Tai Chi Movement: The Ian Sinclair Framework →](ian-sinclair-biomechanics.html)**
+**[Biomechanics of Tai Chi Movement: The Ian Sinclair Framework →](ian-sinclair-biomechanics/)**
 
 The article to read when you want to understand *why* a movement works, not just *how* to do it. This piece grounds Tai Chi mechanics in observable physical principles: structure, weight transfer, ground reaction forces, and whole-body coordination. It is the bridge between traditional vocabulary and modern sports science.
 
@@ -32,7 +32,7 @@ The practical test method Sinclair uses throughout — partner pressure, balance
 
 ### 3. Mechanics & Principles — The Internal Force
 
-**[Ian Sinclair's Mechanics & Principles Series →](ian-sinclair-mechanics.html)**
+**[Ian Sinclair's Mechanics & Principles Series →](ian-sinclair-mechanics/)**
 
 The article on jin (internal force). This is where the conversation shifts from external form to internal development: how the body generates whole-body power without muscular tension, how the waist directs movement, how the legs root force through the ground. It is the most demanding article in the series, both physically and conceptually.
 
@@ -40,7 +40,7 @@ Read this once you have been practicing for a while and want to understand what 
 
 ### 4. Advanced Applications — Form Meets Martial
 
-**[Ian Sinclair's Advanced Applications Series →](ian-sinclair-advanced.html)**
+**[Ian Sinclair's Advanced Applications Series →](ian-sinclair-advanced/)**
 
 The article where health practice and martial application converge. Push hands skills, fa jin (power issuance), sensitivity development, and the martial interpretation of form movements. This is the longest article in the series because it covers the most ground — the meeting point of everything Sinclair teaches.
 
@@ -58,10 +58,10 @@ If you are a teacher, the Biomechanics and Mechanics articles will give you clea
 
 ## What This Series Is Not
 
-This is not a beginner's introduction to Tai Chi. For that, start with the [Foundation Basics](../basics/index.html) page. The Ian Sinclair series assumes you already know what Tai Chi is, that you have some form experience, and that you are ready to think more carefully about what you are doing.
+This is not a beginner's introduction to Tai Chi. For that, start with the [Foundation Basics](../basics/) page. The Ian Sinclair series assumes you already know what Tai Chi is, that you have some form experience, and that you are ready to think more carefully about what you are doing.
 
 This is also not a complete translation of Sinclair's full body of work. These four articles pull the most important threads from his teaching into one place, but his full curriculum is much larger. If you want the complete picture, look for his books and his YouTube channel after you have read the articles here.
 
 ---
 
-[← Return to Foundation Deep Dives](../index.html) · [Vietnamese: Chuỗi Ian Sinclair →](../../../vi/foundation/deep-dives/ian-sinclair.html)
+[← Return to Foundation Deep Dives](../) · [Vietnamese: Chuỗi Ian Sinclair →](../../../vi/foundation/deep-dives/ian-sinclair/)

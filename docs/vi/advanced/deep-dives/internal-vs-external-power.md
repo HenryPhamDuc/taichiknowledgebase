@@ -459,6 +459,6 @@ Sự khác biệt giữa sức mạnh nội gia và ngoại gia không chỉ là
 
 **Cấp tiếp theo:** [Elite: Cơ Học Nội Tại](../../elite/deep-dives/internal-mechanics.md)
 
-**Phiên bản tiếng Anh:** [Internal vs. External Power →](../../../en/advanced/deep-dives/internal-vs-external-power.html)
+**Phiên bản tiếng Anh:** [Internal vs. External Power →](../../../en/advanced/deep-dives/internal-vs-external-power/)
 
 **Khuyến nghị luyện tập:** Làm việc với một huấn luyện viên có trình độ để phát triển cấu trúc đúng. Sức mạnh nội gia tự học thường phát triển những thói quen xấu khó sửa sau này.

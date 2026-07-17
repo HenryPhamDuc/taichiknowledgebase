@@ -34,14 +34,14 @@ Sự trình bày của bậc thầy Dương gia về các nguyên tắc Thái C�
 
 Bộ chuyên sâu bốn phần về khung giảng dạy của Ian Sinclair — một trong những giọng nói phương Tây rõ ràng nhất về Thái Cực Quyền Dương gia truyền thống. Công trình của ông kết nối quyền pháp cổ điển với cơ học hiện đại, nguyên lý truyền thống với kiểm chứng vật lý. Hãy sử dụng chuỗi này khi bạn muốn suy nghĩ cẩn thận hơn về *tại sao* những gì bạn đang làm có hiệu quả, không chỉ *cách* thực hiện.
 
-**[Tổng quan toàn bộ chuỗi Ian Sinclair →](ian-sinclair.html)**
+**[Tổng quan toàn bộ chuỗi Ian Sinclair →](ian-sinclair/)**
 
 Bốn bài viết, theo thứ tự:
 
-1. **[Thái Cực Quyền Cổ Điển](ian-sinclair-classical.html)** — Khung Dương gia, nguyên lý nền tảng, phân tích chi tiết bài quyền
-2. **[Cơ Học Sinh Học Của Chuyển Động Thái Cực Quyền](ian-sinclair-biomechanics.html)** — Nền tảng vật lý: cấu trúc, chuyển trọng lượng, phản lực từ mặt đất
-3. **[Cơ Học & Nguyên Lý](ian-sinclair-mechanics.html)** — Kình (nội lực), sức mạnh điều khiển bởi eo, phối hợp toàn thân
-4. **[Ứng Dụng Cao Cấp](ian-sinclair-advanced.html)** — Thôi thủ, phát kình, cảm giác, cách diễn giải võ thuật của bài quyền
+1. **[Thái Cực Quyền Cổ Điển](ian-sinclair-classical/)** — Khung Dương gia, nguyên lý nền tảng, phân tích chi tiết bài quyền
+2. **[Cơ Học Sinh Học Của Chuyển Động Thái Cực Quyền](ian-sinclair-biomechanics/)** — Nền tảng vật lý: cấu trúc, chuyển trọng lượng, phản lực từ mặt đất
+3. **[Cơ Học & Nguyên Lý](ian-sinclair-mechanics/)** — Kình (nội lực), sức mạnh điều khiển bởi eo, phối hợp toàn thân
+4. **[Ứng Dụng Cao Cấp](ian-sinclair-advanced/)** — Thôi thủ, phát kình, cảm giác, cách diễn giải võ thuật của bài quyền
 
 ## Cơ Sinh Học Của Thái Cực Quyền
 
@@ -107,4 +107,4 @@ Video hướng dẫn được tuyển chọn từ danh sách phát của bạn:
 
 ---
 
-**English version:** [English Deep Dives →](../../foundation/deep-dives/index.html)
+**English version:** [English Deep Dives →](../../foundation/deep-dives/)

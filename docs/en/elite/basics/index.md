@@ -94,4 +94,4 @@ There's no rush. There never is.
 
 ---
 
-[← Return to Elite Overview](../index.md) · [Vietnamese: Cơ Bản Tinh Hoa →](../../../vi/elite/basics/index.html)
+[← Return to Elite Overview](../index.md) · [Vietnamese: Cơ Bản Tinh Hoa →](../../../vi/elite/basics/)

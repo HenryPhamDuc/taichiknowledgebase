@@ -459,6 +459,6 @@ The distinction between internal and external power is not just about how you fi
 
 **Next level:** [Elite: Internal Mechanics](../../elite/deep-dives/internal-mechanics.md)
 
-**Vietnamese version:** [Nội Gia vs. Ngoại Gia: Sự Khác Biệt Cốt Lõi →](../../../vi/advanced/deep-dives/internal-vs-external-power.html)
+**Vietnamese version:** [Nội Gia vs. Ngoại Gia: Sự Khác Biệt Cốt Lõi →](../../../vi/advanced/deep-dives/internal-vs-external-power/)
 
 **Practice recommendation:** Work with a qualified instructor to develop proper structure. Self-taught internal power often develops bad habits that are hard to correct later.

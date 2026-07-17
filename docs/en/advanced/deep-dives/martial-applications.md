@@ -335,6 +335,6 @@ Master the applications not to become a fighter, but to understand what the move
 
 **Next level:** [Elite: Internal Mechanics](../../elite/deep-dives/internal-mechanics.md)
 
-**Vietnamese version:** [Ứng Dụng Võ Thuật Của Các Chuyển Động →](../../../vi/advanced/deep-dives/martial-applications.html)
+**Vietnamese version:** [Ứng Dụng Võ Thuật Của Các Chuyển Động →](../../../vi/advanced/deep-dives/martial-applications/)
 
 **Practice partner needed:** Push hands drills require a training partner. Find a local Tai Chi group or attend workshops.

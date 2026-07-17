@@ -399,6 +399,6 @@ Khi bạn làm vậy, bạn khám phá ra một điều sâu sắc: sức mạnh
 
 **Cấp tiếp theo:** [Elite: Chiến Lược Đẩy Tay Nâng Cao](../../elite/deep-dives/push-hands-strategies.md) | [Elite: Bồi Dưỡng Năng Lượng](../../elite/deep-dives/energetic-cultivation.md)
 
-**Phiên bản tiếng Anh:** [Internal Mechanics →](../../../en/elite/deep-dives/internal-mechanics.html)
+**Phiên bản tiếng Anh:** [Internal Mechanics →](../../../en/elite/deep-dives/internal-mechanics/)
 
 **Khuyến nghị luyện tập:** Cơ học nội tại yêu cầu hướng dẫn có trình độ. Tự học từ văn bản đơn độc thường dẫn đến cơ học bị hiểu lầm. Tìm một giáo viên có thể cung cấp sửa chữa và phản hồi thực hành.

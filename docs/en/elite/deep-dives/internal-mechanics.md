@@ -399,6 +399,6 @@ When you do, you discover something profound: power was never something you had 
 
 **Next level:** [Elite: Advanced Push Hands Strategies](../../elite/deep-dives/push-hands-strategies.md) | [Elite: Energetic Cultivation](../../elite/deep-dives/energetic-cultivation.md)
 
-**Vietnamese version:** [Cơ Học Nội Tại: Kiến Trúc Của Sức Mạnh →](../../../vi/elite/deep-dives/internal-mechanics.html)
+**Vietnamese version:** [Cơ Học Nội Tại: Kiến Trúc Của Sức Mạnh →](../../../vi/elite/deep-dives/internal-mechanics/)
 
 **Practice recommendation:** Internal mechanics require qualified instruction. Self-teaching from text alone often leads to misunderstood mechanics. Seek a teacher who can provide hands-on correction and feedback.

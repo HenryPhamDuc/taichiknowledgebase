@@ -929,4 +929,4 @@ Chuỗi Cơ Học & Nguyên Lý của Ian Sinclair cung cấp cầu nối giữa
 
 **Trích dẫn:** Sinclair, Ian. Mechanics & Principles Series [Video teachings]. Various platforms.
 
-[← Quay Lại: Chuyên Sâu Nền Tảng](../index.html) · [English version →](../../../en/foundation/deep-dives/ian-sinclair-mechanics.html)
+[← Quay Lại: Chuyên Sâu Nền Tảng](../) · [English version →](../../../en/foundation/deep-dives/ian-sinclair-mechanics/)
