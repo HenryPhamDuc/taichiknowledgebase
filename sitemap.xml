@@ -71,11 +71,25 @@
         <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/elite/deep-dives/"/>
     </url>
     <url>
+        <loc>Noneelite/deep-dives/energetic-cultivation/</loc>
+        <lastmod>2026-07-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneelite/deep-dives/energetic-cultivation/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/elite/deep-dives/energetic-cultivation/"/>
+    </url>
+    <url>
         <loc>Noneelite/deep-dives/internal-mechanics/</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneelite/deep-dives/internal-mechanics/"/>
         <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/elite/deep-dives/internal-mechanics/"/>
+    </url>
+    <url>
+        <loc>Noneelite/deep-dives/push-hands-strategies/</loc>
+        <lastmod>2026-07-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneelite/deep-dives/push-hands-strategies/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/elite/deep-dives/push-hands-strategies/"/>
     </url>
     <url>
         <loc>Noneform-analysis/</loc>
@@ -274,11 +288,25 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneelite/deep-dives/"/>
     </url>
     <url>
+        <loc>Nonevi/elite/deep-dives/energetic-cultivation/</loc>
+        <lastmod>2026-07-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/elite/deep-dives/energetic-cultivation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneelite/deep-dives/energetic-cultivation/"/>
+    </url>
+    <url>
         <loc>Nonevi/elite/deep-dives/internal-mechanics/</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/elite/deep-dives/internal-mechanics/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneelite/deep-dives/internal-mechanics/"/>
+    </url>
+    <url>
+        <loc>Nonevi/elite/deep-dives/push-hands-strategies/</loc>
+        <lastmod>2026-07-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/elite/deep-dives/push-hands-strategies/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneelite/deep-dives/push-hands-strategies/"/>
     </url>
     <url>
         <loc>Nonevi/form-analysis/</loc>
