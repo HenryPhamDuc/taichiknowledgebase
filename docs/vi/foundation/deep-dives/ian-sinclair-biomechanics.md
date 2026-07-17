@@ -1093,5 +1093,5 @@ Như Ian Sinclair thường nói: *"Cao cấp chỉ là cơ bản, được tậ
 
 ## Điều Hướng Đa Ngôn Ngữ
 
-- **English:** [Biomechanics of Tai Chi Movement: The Ian Sinclair Framework](../../en/foundation/deep-dives/ian-sinclair-biomechanics.md)
-- **Tiếng Việt:** [Cơ Học Sinh Học của Chuyển Động Thái Cực Quyền: Khung Lý Thuyết Ian Sinclair](../../vi/foundation/deep-dives/ian-sinclair-biomechanics.md)
+- **English:** [Biomechanics of Tai Chi Movement: The Ian Sinclair Framework](../../en/foundation/deep-dives/ian-sinclair-biomechanics.html)
+- **Tiếng Việt:** [Cơ Học Sinh Học của Chuyển Động Thái Cực Quyền: Khung Lý Thuyết Ian Sinclair](../../vi/foundation/deep-dives/ian-sinclair-biomechanics.html)

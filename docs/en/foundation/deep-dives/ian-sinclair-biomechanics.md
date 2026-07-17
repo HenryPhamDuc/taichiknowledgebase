@@ -1095,5 +1095,5 @@ As Ian Sinclair often says: *"The advanced is just the basic, practiced deeply."
 
 ## Multilingual Navigation
 
-- **English:** [Biomechanics of Tai Chi Movement: The Ian Sinclair Framework](../../en/foundation/deep-dives/ian-sinclair-biomechanics.md)
-- **Tiếng Việt:** [Cơ Học Sinh Học của Chuyển Động Thái Cực Quyền: Khung Lý Thuyết Ian Sinclair](../../vi/foundation/deep-dives/ian-sinclair-biomechanics.md)
+- **English:** [Biomechanics of Tai Chi Movement: The Ian Sinclair Framework](../../en/foundation/deep-dives/ian-sinclair-biomechanics.html)
+- **Tiếng Việt:** [Cơ Học Sinh Học của Chuyển Động Thái Cực Quyền: Khung Lý Thuyết Ian Sinclair](../../vi/foundation/deep-dives/ian-sinclair-biomechanics.html)

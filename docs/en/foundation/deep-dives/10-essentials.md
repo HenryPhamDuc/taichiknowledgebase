@@ -387,6 +387,6 @@ This article covers the what and why of each essential. Future articles in this 
 
 ---
 
-**Vietnamese version:** [10 Nguyên Tắc Thiết Yếu →](../../../vi/foundation/deep-dives/10-essentials.md)
+**Vietnamese version:** [10 Nguyên Tắc Thiết Yếu →](../../../vi/foundation/deep-dives/10-essentials.html)
 
 **Original Chinese terms:** [Tai Chi Glossary →](../../reference/glossary.md#10-essentials)

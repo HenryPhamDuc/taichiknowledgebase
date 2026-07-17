@@ -387,6 +387,6 @@ Bài viết này bao quát cái gì và tại sao của mỗi nguyên tắc. Cá
 
 ---
 
-**Phiên bản tiếng Anh:** [The 10 Essentials of Tai Chi →](../../../en/foundation/deep-dives/10-essentials.md)
+**Phiên bản tiếng Anh:** [The 10 Essentials of Tai Chi →](../../../en/foundation/deep-dives/10-essentials.html)
 
 **Thuật ngữ gốc chữ Hán:** [Từ Điển Thái Cực Quyền →](../../reference/glossary.md#10-nguyen-tac-thiet-yeu)

@@ -79,4 +79,4 @@ There's no prize for being fast. The work itself is the reward.
 
 ---
 
-**Need more foundation?** [Return to basics →](../foundation/index.md) · **Advanced work:** [Advanced Level →](../advanced/index.md) · **Vietnamese:** [Cấp Độ Tinh Hoa →](../../../vi/elite/index.md)
+**Need more foundation?** [Return to basics →](../foundation/index.md) · **Advanced work:** [Advanced Level →](../advanced/index.md) · **Vietnamese:** [Cấp Độ Tinh Hoa →](../../../vi/elite/index.html)

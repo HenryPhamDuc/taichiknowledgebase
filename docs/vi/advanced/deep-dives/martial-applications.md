@@ -335,6 +335,6 @@ Làm chủ các ứng dụng không phải để trở thành một chiến binh
 
 **Cấp tiếp theo:** [Elite: Cơ Học Nội Tại](../../elite/deep-dives/internal-mechanics.md)
 
-**Phiên bản tiếng Anh:** [Martial Applications of Movements →](../../../en/advanced/deep-dives/martial-applications.md)
+**Phiên bản tiếng Anh:** [Martial Applications of Movements →](../../../en/advanced/deep-dives/martial-applications.html)
 
 **Cần bạn tập:** Các bài tập đẩy tay yêu cầu một bạn tập luyện. Tìm một nhóm Thái Cực Quyền địa phương hoặc tham dự các hội thảo.
