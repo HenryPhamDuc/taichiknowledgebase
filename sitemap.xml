@@ -183,6 +183,13 @@
         <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/foundation/deep-dives/yang-chengfu-principles/"/>
     </url>
     <url>
+        <loc>Nonereference/</loc>
+        <lastmod>2026-07-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonereference/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/reference/"/>
+    </url>
+    <url>
         <loc>Nonereference/glossary/</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
@@ -377,6 +384,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/foundation/deep-dives/yang-chengfu-principles/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Nonefoundation/deep-dives/yang-chengfu-principles/"/>
+    </url>
+    <url>
+        <loc>Nonevi/reference/</loc>
+        <lastmod>2026-07-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="vi" href="Nonevi/reference/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonereference/"/>
     </url>
     <url>
         <loc>Nonevi/reference/glossary/</loc>
