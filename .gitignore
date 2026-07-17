@@ -39,4 +39,8 @@ Thumbs.db
 *~
 
 # Logs
-*.logscripts/mirror-en.py
+*.log
+
+# Stray nested git repos (worktree handled out-of-band)
+ghpages_worktree/
+
