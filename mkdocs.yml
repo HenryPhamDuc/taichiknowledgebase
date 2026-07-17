@@ -1,6 +1,7 @@
 site_name: Tai Chi Knowledge Base
 site_description: Comprehensive Tai Chi training resource - Foundation, Advanced, and Elite levels
 site_author: Henry Pham
+copyright: © 2026 Henry Phạm Đức · Tennis & Tai Chi research · All site content is for educational purposes
 theme:
   name: material
   palette:
@@ -20,6 +21,8 @@ extra_css:
   - assets/css/hide-language-toggle.css
 extra_javascript:
   - assets/js/extra.js
+extra:
+  generator: false
 markdown_extensions:
   - toc:
       permalink: true
