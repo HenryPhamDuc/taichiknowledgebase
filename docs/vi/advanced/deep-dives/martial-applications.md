@@ -331,10 +331,10 @@ Làm chủ các ứng dụng không phải để trở thành một chiến binh
 
 ---
 
-**Chuẩn bị nền tảng:** [10 Nguyên Tắc Thiết Yếu](../10-essentials.md) | [Nguyên Lý Dương Trừng Phủ](../yang-chengfu-principles.md)
+**Chuẩn bị nền tảng:** [10 Nguyên Tắc Thiết Yếu](../../../foundation/deep-dives/10-essentials/) | [Nguyên Lý Dương Trừng Phủ](../../../foundation/deep-dives/yang-chengfu-principles/)
 
-**Cấp tiếp theo:** [Elite: Cơ Học Nội Tại](../../elite/deep-dives/internal-mechanics.md)
+**Cấp tiếp theo:** [Elite: Cơ Học Nội Tại](../../../elite/deep-dives/internal-mechanics/)
 
-**Phiên bản tiếng Anh:** [Martial Applications of Movements →](../../../en/advanced/deep-dives/martial-applications/)
+**Phiên bản tiếng Anh:** [Martial Applications of Movements →](../../../../en/advanced/deep-dives/martial-applications/)
 
 **Cần bạn tập:** Các bài tập đẩy tay yêu cầu một bạn tập luyện. Tìm một nhóm Thái Cực Quyền địa phương hoặc tham dự các hội thảo.

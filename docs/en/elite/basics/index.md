@@ -83,7 +83,7 @@ If most of these are no, that's not a problem — it just means Elite work isn't
 
 ## What's Next
 
-When you're ready, the [Elite Deep Dives](../deep-dives/index.md) section explores:
+When you're ready, the [Elite Deep Dives](../deep-dives/) section explores:
 
 - Chen Xiaowang fajin demonstrations with detailed analysis
 - Martial applications under realistic conditions
@@ -94,4 +94,4 @@ There's no rush. There never is.
 
 ---
 
-[← Return to Elite Overview](../index.md) · [Vietnamese: Cơ Bản Tinh Hoa →](../../../vi/elite/basics/)
+[← Return to Elite Overview](../) · [Vietnamese: Cơ Bản Tinh Hoa →](../../../vi/elite/basics/)

@@ -78,7 +78,7 @@ Trước khi bắt đầu phần này, hãy chắc chắn rằng bạn có thể
 
 ## Bước Tiếp Theo
 
-Khi bạn sẵn sàng đi sâu hơn, phần [Chuyên Sâu Cao Cấp](../deep-dives/index.md) bao gồm:
+Khi bạn sẵn sàng đi sâu hơn, phần [Chuyên Sâu Cao Cấp](../deep-dives/) bao gồm:
 
 - Ứng dụng võ thuật của các chuyển động phổ biến (mỗi thức *thật sự* làm gì trong chiến đấu)
 - Phát lực nội tại so với ngoại tại (và cách phát triển loại nội tại)
@@ -89,4 +89,4 @@ Hãy dành thời gian. Không có phần thưởng nào cho việc nhanh.
 
 ---
 
-[← Quay lại Tổng Quan Cao Cấp](../index.md) · [English: Advanced Basics →](../../advanced/basics/index.md)
+[← Quay lại Tổng Quan Cao Cấp](../) · [English: Advanced Basics →](../../advanced/basics/)

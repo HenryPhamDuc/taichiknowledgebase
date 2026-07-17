@@ -38,4 +38,4 @@ Khám phá chi tiết các chủ đề nền tảng cụ thể:
 
 ---
 
-Tiếp theo: [Cơ Bản →](basics/index.md) | [Chuyên Sâu →](deep-dives/index.md)
+Tiếp theo: [Cơ Bản →](basics/) | [Chuyên Sâu →](deep-dives/)

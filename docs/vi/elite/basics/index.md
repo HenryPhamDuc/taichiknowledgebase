@@ -83,7 +83,7 @@ Nếu phần lớn là "không," đó không phải vấn đề — chỉ có ng
 
 ## Bước Tiếp Theo
 
-Khi bạn sẵn sàng, phần [Chuyên Sâu Tinh Hoa](../deep-dives/index.md) khám phá:
+Khi bạn sẵn sàng, phần [Chuyên Sâu Tinh Hoa](../deep-dives/) khám phá:
 
 - Biểu diễn phát kình của Trần Tiểu Vương với phân tích chi tiết
 - Ứng dụng võ thuật trong điều kiện thực tế
@@ -94,4 +94,4 @@ Không có gì vội vàng. Chưa bao giờ có.
 
 ---
 
-[← Quay lại Tổng Quan Tinh Hoa](../index.md) · [English: Elite Basics →](../../elite/basics/index.md)
+[← Quay lại Tổng Quan Tinh Hoa](../) · [English: Elite Basics →](../../elite/basics/)

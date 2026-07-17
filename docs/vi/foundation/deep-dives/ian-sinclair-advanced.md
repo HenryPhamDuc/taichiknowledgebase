@@ -1141,4 +1141,4 @@ Loạt Ứng Dụng Nâng Cao của Ian Sinclair đại diện cho sự hội nh
 
 ---
 
-[← Quay Lại: Chuyên Sâu Nền Tảng](../) · [English version →](../../../en/foundation/deep-dives/ian-sinclair-advanced/)
+[← Quay Lại: Chuyên Sâu Nền Tảng](../) · [English version →](../../../../en/foundation/deep-dives/ian-sinclair-advanced/)

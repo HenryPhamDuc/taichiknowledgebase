@@ -245,4 +245,4 @@ When you practice Tai Chi today, with these 10 principles as your companions, yo
 
 **Vietnamese version:** [Những Nguyên Lý Nền Tảng Của Dương Trừng Phủ →](../../../vi/foundation/deep-dives/yang-chengfu-principles/)
 
-**Glossary:** [Tai Chi Glossary →](../../reference/glossary.md)
+**Glossary:** [Tai Chi Glossary →](../../../reference/glossary/)

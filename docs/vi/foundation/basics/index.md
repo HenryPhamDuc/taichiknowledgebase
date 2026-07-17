@@ -85,4 +85,4 @@ Trước khi học toàn bộ bài quyền, hãy luyện từng chuyển động
 
 ---
 
-[English: English Basics →](../../foundation/basics/index.md) · [Tổng Quan Nền Tảng ←](../index.md) · [Chuyên Sâu Nền Tảng →](../deep-dives/index.md)
+[English: English Basics →](../../foundation/basics/) · [Tổng Quan Nền Tảng ←](../) · [Chuyên Sâu Nền Tảng →](../deep-dives/)

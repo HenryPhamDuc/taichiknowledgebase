@@ -393,11 +393,11 @@ When you do, you discover something profound: power was never something you had 
 
 ---
 
-**Foundation preparation:** [The 10 Essentials](../10-essentials.md) | [Yang Chengfu Principles](../yang-chengfu-principles.md)
+**Foundation preparation:** [The 10 Essentials](../../../foundation/deep-dives/10-essentials/) | [Yang Chengfu Principles](../../../foundation/deep-dives/yang-chengfu-principles/)
 
-**Related deep dives:** [Internal vs. External Power](./internal-vs-external-power.md) | [Martial Applications](./martial-applications.md)
+**Related deep dives:** [Internal vs. External Power](../../../advanced/deep-dives/internal-vs-external-power/) | [Martial Applications](../../../advanced/deep-dives/martial-applications/)
 
-**Next level:** [Elite: Advanced Push Hands Strategies](../../elite/deep-dives/push-hands-strategies.md) | [Elite: Energetic Cultivation](../../elite/deep-dives/energetic-cultivation.md)
+**Next level:** [Push Hands Strategies](../push-hands-strategies/) | [Energetic Cultivation](../energetic-cultivation/)
 
 **Vietnamese version:** [Cơ Học Nội Tại: Kiến Trúc Của Sức Mạnh →](../../../vi/elite/deep-dives/internal-mechanics/)
 

@@ -331,9 +331,9 @@ Master the applications not to become a fighter, but to understand what the move
 
 ---
 
-**Foundation preparation:** [The 10 Essentials](../10-essentials.md) | [Yang Chengfu Principles](../yang-chengfu-principles.md)
+**Foundation preparation:** [The 10 Essentials](../../../foundation/deep-dives/10-essentials/) | [Yang Chengfu Principles](../../../foundation/deep-dives/yang-chengfu-principles/)
 
-**Next level:** [Elite: Internal Mechanics](../../elite/deep-dives/internal-mechanics.md)
+**Next level:** [Elite: Internal Mechanics](../../../elite/deep-dives/internal-mechanics/)
 
 **Vietnamese version:** [Ứng Dụng Võ Thuật Của Các Chuyển Động →](../../../vi/advanced/deep-dives/martial-applications/)
 

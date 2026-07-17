@@ -48,7 +48,7 @@ Những thực hành định nghĩa công việc cấp Tinh Hoa:
 
 Bài viết cho người luyện tập nghiêm túc:
 
-- **[Cơ Chế Nội Tại: Kỹ Thuật Của Nội Lực](deep-dives/internal-mechanics.md)** — khám phá chi tiết cách nội lực vận hành, về mặt cơ học và cấu trúc
+- **[Cơ Chế Nội Tại: Kỹ Thuật Của Nội Lực](deep-dives/internal-mechanics/)** — khám phá chi tiết cách nội lực vận hành, về mặt cơ học và cấu trúc
 
 Những bài viết dự kiến trong tương lai:
 
@@ -79,4 +79,4 @@ Không có phần thưởng cho việc nhanh. Bản thân công việc là phầ
 
 ---
 
-**Cần thêm nền tảng?** [Quay lại cơ bản →](../foundation/index.md) · **Cấp Cao Cấp:** [Cấp Độ Cao Cấp →](../advanced/index.md) · **English:** [Elite Level →](../../elite/index.md)
+**Cần thêm nền tảng?** [Quay lại cơ bản →](../foundation/) · **Cấp Cao Cấp:** [Cấp Độ Cao Cấp →](../advanced/) · **English:** [Elite Level →](../../elite/)

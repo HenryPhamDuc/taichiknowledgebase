@@ -48,8 +48,8 @@ Cầu nối giữa thực hành Nền Tảng và thực hành Cao Cấp trọn v
 
 Bài viết chuyên sâu về những khía cạnh cụ thể của thực hành Cao Cấp:
 
-- **[Ứng Dụng Võ Thuật Của Các Chuyển Động Phổ Biến](deep-dives/martial-applications.md)** — mỗi thức thật sự làm gì như một kỹ thuật tự vệ
-- **[Phát Lực Nội Tại So Với Ngoại Tại](deep-dives/internal-vs-external-power.md)** — sự khác biệt giữa lực và cấu trúc, và cách phát triển loại thứ hai
+- **[Ứng Dụng Võ Thuật Của Các Chuyển Động Phổ Biến](deep-dives/martial-applications/)** — mỗi thức thật sự làm gì như một kỹ thuật tự vệ
+- **[Phát Lực Nội Tại So Với Ngoại Tại](deep-dives/internal-vs-external-power/)** — sự khác biệt giữa lực và cấu trúc, và cách phát triển loại thứ hai
 - Mẫu chuyển trọng lượng nâng cao (sắp tới)
 - Biến thể bài quyền qua các phái — Dương, Trần, Vũ và Tôn (sắp tới)
 
@@ -73,4 +73,4 @@ Khi điều gì đó không có ý nghĩa, hãy gạt sang một bên. Tiếp t�
 
 ---
 
-**Nền tảng chưa vững?** [Quay lại cơ bản →](../foundation/index.md) · **Cấp Tinh Hoa:** [Cấp Độ Tinh Hoa →](../elite/index.md) · **English:** [Advanced Level →](../../advanced/index.md)
+**Nền tảng chưa vững?** [Quay lại cơ bản →](../foundation/) · **Cấp Tinh Hoa:** [Cấp Độ Tinh Hoa →](../elite/) · **English:** [Advanced Level →](../../advanced/)

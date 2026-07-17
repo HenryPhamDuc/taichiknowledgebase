@@ -29,7 +29,7 @@ This collection provides detailed analysis of all 24 movements in the Simplified
 
 ### Forms 1-8: Foundation (Beginner Level)
 
-**[Forms 1-8 Detailed Breakdown →](24-form-breakdown-forms-1-8.md)**
+**[Forms 1-8 Detailed Breakdown →](24-form-breakdown-forms-1-8/)**
 
 | Form | Name | Chinese | Key Training Focus |
 |------|------|---------|-------------------|
@@ -48,7 +48,7 @@ This collection provides detailed analysis of all 24 movements in the Simplified
 
 ### Forms 9-16: Intermediate (Building Complexity)
 
-**[Forms 9-16 Detailed Breakdown →](24-form-breakdown-forms-9-16.md)**
+**[Forms 9-16 Detailed Breakdown →](24-form-breakdown-forms-9-16/)**
 
 | Form | Name | Chinese | Key Training Focus |
 |------|------|---------|-------------------|
@@ -67,7 +67,7 @@ This collection provides detailed analysis of all 24 movements in the Simplified
 
 ### Forms 17-24: Advanced (Mastery Level)
 
-**[Forms 17-24 Detailed Breakdown →](24-form-breakdown-forms-17-24.md)**
+**[Forms 17-24 Detailed Breakdown →](24-form-breakdown-forms-17-24/)**
 
 | Form | Name | Chinese | Key Training Focus |
 |------|------|---------|-------------------|
@@ -281,12 +281,12 @@ After mastering each section, verify:
 
 ### Related Articles in This Knowledge Base
 
-- [Biomechanics of Tai Chi Movement: The Ian Sinclair Framework](../foundation/deep-dives/ian-sinclair-biomechanics.md)
-- [Ian Sinclair: Classical Tai Chi Chuan Series](../foundation/deep-dives/ian-sinclair-classical.md)
-- [Ian Sinclair: Mechanics & Principles](../foundation/deep-dives/ian-sinclair-mechanics.md)
-- [Ian Sinclair: Advanced Applications](../foundation/deep-dives/ian-sinclair-advanced.md)
-- [The Ten Essentials of Tai Chi](../foundation/deep-dives/10-essentials.md)
-- [Yang Chengfu's Tai Chi Principles](../foundation/deep-dives/yang-chengfu-principles.md)
+- [Biomechanics of Tai Chi Movement: The Ian Sinclair Framework](../foundation/deep-dives/ian-sinclair-biomechanics/)
+- [Ian Sinclair: Classical Tai Chi Chuan Series](../foundation/deep-dives/ian-sinclair-classical/)
+- [Ian Sinclair: Mechanics & Principles](../foundation/deep-dives/ian-sinclair-mechanics/)
+- [Ian Sinclair: Advanced Applications](../foundation/deep-dives/ian-sinclair-advanced/)
+- [The Ten Essentials of Tai Chi](../foundation/deep-dives/10-essentials/)
+- [Yang Chengfu's Tai Chi Principles](../foundation/deep-dives/yang-chengfu-principles/)
 
 ### Recommended Practice Schedule
 

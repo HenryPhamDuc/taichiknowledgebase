@@ -16,7 +16,7 @@ Mỗi bài viết đứng riêng, nhưng chúng xây dựng lên nhau. Hãy đ�
 
 ### 1. Thái Cực Quyền Cổ Điển — Khung Dương Gia
 
-**[Chuỗi Thái Cực Quyền Cổ Điển Của Ian Sinclair →](ian-sinclair-classical/)**
+**[Chuỗi Thái Cực Quyền Cổ Điển Của Ian Sinclair →](../ian-sinclair-classical/)**
 
 Nơi bắt đầu nếu bạn mới tiếp cận giảng dạy của Sinclair. Bài viết này bao gồm Khung Cổ Điển, dòng dõi Dương Trừng Phủ truyền thống, và các nguyên lý nền tảng mà phần còn lại của công trình ông giả định bạn đã biết. Bài viết bao gồm phân tích chi tiết bài quyền với độ chính xác cơ học, sự tích hợp các ứng dụng võ thuật trong thực hành sức khỏe, và tiến trình rõ ràng từ cấp độ sơ cấp đến cao cấp.
 
@@ -24,7 +24,7 @@ Hãy bắt đầu ở đây nếu bạn muốn hiểu Sinclair nghĩ về bài q
 
 ### 2. Cơ Học Sinh Học — Nền Tảng Vật Lý
 
-**[Cơ Học Sinh Học Của Chuyển Động Thái Cực Quyền: Khung Lý Thuyết Ian Sinclair →](ian-sinclair-biomechanics/)**
+**[Cơ Học Sinh Học Của Chuyển Động Thái Cực Quyền: Khung Lý Thuyết Ian Sinclair →](../ian-sinclair-biomechanics/)**
 
 Bài viết cần đọc khi bạn muốn hiểu *tại sao* một chuyển động có hiệu quả, không chỉ *cách* thực hiện nó. Bài viết này đặt cơ học Thái Cực Quyền vào các nguyên lý vật lý có thể quan sát được: cấu trúc, chuyển trọng lượng, phản lực từ mặt đất, và sự phối hợp toàn thân. Đây là cây cầu nối giữa từ vựng truyền thống và khoa học thể thao hiện đại.
 
@@ -32,7 +32,7 @@ Phương pháp kiểm tra thực tế mà Sinclair sử dụng xuyên suốt —
 
 ### 3. Cơ Học & Nguyên Lý — Nội Lực
 
-**[Chuỗi Cơ Học & Nguyên Lý Của Ian Sinclair →](ian-sinclair-mechanics/)**
+**[Chuỗi Cơ Học & Nguyên Lý Của Ian Sinclair →](../ian-sinclair-mechanics/)**
 
 Bài viết về kình (nội lực). Đây là nơi cuộc trò chuyện chuyển từ quyền pháp bên ngoài sang phát triển bên trong: làm thế nào cơ thể tạo ra sức mạnh toàn thân mà không cần căng cơ, làm thế nào eo chỉ huy chuyển động, làm thế nào chân truyền lực qua mặt đất. Đây là bài viết đòi hỏi khắt khe nhất trong chuỗi, cả về thể chất lẫn khái niệm.
 
@@ -40,7 +40,7 @@ Hãy đọc bài này khi bạn đã luyện tập được một thời gian v�
 
 ### 4. Ứng Dụng Cao Cấp — Quyền Gặp Võ
 
-**[Chuỗi Ứng Dụng Cao Cấp Của Ian Sinclair →](ian-sinclair-advanced/)**
+**[Chuỗi Ứng Dụng Cao Cấp Của Ian Sinclair →](../ian-sinclair-advanced/)**
 
 Bài viết nơi thực hành sức khỏe và ứng dụng võ thuật hội tụ. Kỹ năng thôi thủ, phát kình (phát lực), phát triển cảm giác, và cách diễn giải võ thuật của các chuyển động trong bài quyền. Đây là bài viết dài nhất trong chuỗi vì nó bao quát nhiều nhất — điểm gặp gỡ của mọi thứ Sinclair giảng dạy.
 
@@ -58,10 +58,10 @@ Nếu bạn là giáo viên, các bài viết Cơ Học Sinh Học và Cơ Học
 
 ## Chuỗi Này Không Phải Là Gì
 
-Đây không phải là phần giới thiệu cho người mới về Thái Cực Quyền. Cho việc đó, hãy bắt đầu với trang [Cơ Bản Nền Tảng](../basics/). Chuỗi Ian Sinclair giả định bạn đã biết Thái Cực Quyền là gì, bạn đã có một số kinh nghiệm bài quyền, và bạn đã sẵn sàng suy nghĩ cẩn thận hơn về những gì bạn đang làm.
+Đây không phải là phần giới thiệu cho người mới về Thái Cực Quyền. Cho việc đó, hãy bắt đầu với trang [Cơ Bản Nền Tảng](../../basics/). Chuỗi Ian Sinclair giả định bạn đã biết Thái Cực Quyền là gì, bạn đã có một số kinh nghiệm bài quyền, và bạn đã sẵn sàng suy nghĩ cẩn thận hơn về những gì bạn đang làm.
 
 Đây cũng không phải là bản dịch đầy đủ toàn bộ công trình của Sinclair. Bốn bài viết này gom các mạch quan trọng nhất từ giảng dạy của ông vào một nơi, nhưng chương trình đầy đủ của ông lớn hơn nhiều. Nếu bạn muốn có bức tranh đầy đủ, hãy tìm sách và kênh YouTube của ông sau khi đã đọc các bài viết ở đây.
 
 ---
 
-[← Quay Lại: Chuyên Sâu Nền Tảng](../) · [English version: Ian Sinclair Series →](../../../en/foundation/deep-dives/ian-sinclair/)
+[← Quay Lại: Chuyên Sâu Nền Tảng](../) · [English version: Ian Sinclair Series →](../../../../en/foundation/deep-dives/ian-sinclair/)

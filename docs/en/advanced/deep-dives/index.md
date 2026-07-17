@@ -10,13 +10,13 @@ These are not introductory articles. They assume you can already do the movement
 
 ## Articles in This Section
 
-### [Martial Applications: What Each Movement Really Does](martial-applications.md)
+### [Martial Applications: What Each Movement Really Does](martial-applications/)
 
 Every Tai Chi movement has a martial meaning — usually hidden. This article reveals the applications behind Ward Off, Roll Back, Press, Push, and the other foundational techniques. You learn how each movement works as self-defense, why it looks the way it does, and how to test it with a partner.
 
 **Read this if:** you've wondered whether Tai Chi "actually works" as a martial art, or you've been told it does but no one could show you how.
 
-### [Internal vs. External Power Generation](internal-vs-external-power.md)
+### [Internal vs. External Power Generation](internal-vs-external-power/)
 
 External power is what most martial artists develop — muscular force, generated locally and pushed outward. Internal power (often called *fajin*, 發勁) is something different: force that arises from the whole body, transmitted through structure rather than muscle.
 
@@ -55,4 +55,4 @@ Suggestions welcome. If there's a topic you'd like a deep-dive on, let me know.
 
 ---
 
-[← Return to Advanced Overview](../index.md) · [Vietnamese: Chuyên Sâu Cao Cấp →](../../../vi/advanced/deep-dives/)
+[← Return to Advanced Overview](../) · [Vietnamese: Chuyên Sâu Cao Cấp →](../../../vi/advanced/deep-dives/)

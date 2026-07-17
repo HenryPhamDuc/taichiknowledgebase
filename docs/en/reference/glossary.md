@@ -4,7 +4,7 @@ This glossary contains Chinese terms, pronunciation, and characters used through
 
 ---
 
-## The 10 Essentials
+## The 10 Essentials {#10-essentials}
 
 The original Chinese names for Yang Chengfu's 10 Essentials, with pronunciation and character breakdown.
 
@@ -133,4 +133,4 @@ The original Chinese names for Yang Chengfu's 10 Essentials, with pronunciation 
 
 ---
 
-**Back to:** [10 Essentials of Tai Chi](../foundation/deep-dives/10-essentials.md) | [Foundation Home](../foundation/index.md)
+**Back to:** [10 Essentials of Tai Chi](../../foundation/deep-dives/10-essentials/) | [Foundation Home](../../foundation/)

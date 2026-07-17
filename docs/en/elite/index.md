@@ -48,7 +48,7 @@ The practices that define Elite-level work:
 
 Articles for serious practitioners:
 
-- **[Internal Mechanics: The Engineering of Internal Power](deep-dives/internal-mechanics.md)** — a detailed examination of how internal power works, mechanically and structurally
+- **[Internal Mechanics: The Engineering of Internal Power](deep-dives/internal-mechanics/)** — a detailed examination of how internal power works, mechanically and structurally
 
 Planned future articles:
 
@@ -79,4 +79,4 @@ There's no prize for being fast. The work itself is the reward.
 
 ---
 
-**Need more foundation?** [Return to basics →](../foundation/index.md) · **Advanced work:** [Advanced Level →](../advanced/index.md) · **Vietnamese:** [Cấp Độ Tinh Hoa →](../../../vi/elite/)
+**Need more foundation?** [Return to basics →](../foundation/) · **Advanced work:** [Advanced Level →](../advanced/) · **Vietnamese:** [Cấp Độ Tinh Hoa →](../../../vi/elite/)

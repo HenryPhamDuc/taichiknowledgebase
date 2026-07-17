@@ -393,12 +393,12 @@ Khi bạn làm vậy, bạn khám phá ra một điều sâu sắc: sức mạnh
 
 ---
 
-**Chuẩn bị nền tảng:** [10 Nguyên Tắc Thiết Yếu](../10-essentials.md) | [Nguyên Lý Dương Trừng Phủ](../yang-chengfu-principles.md)
+**Chuẩn bị nền tảng:** [10 Nguyên Tắc Thiết Yếu](../../../../foundation/deep-dives/10-essentials/) | [Nguyên Lý Dương Trừng Phủ](../../../../foundation/deep-dives/yang-chengfu-principles/)
 
-**Chuyên sâu liên quan:** [Nội Gia vs. Ngoại Gia](./internal-vs-external-power.md) | [Ứng Dụng Võ Thuật](./martial-applications.md)
+**Chuyên sâu liên quan:** [Nội Gia vs. Ngoại Gia](../../../advanced/deep-dives/internal-vs-external-power/) | [Ứng Dụng Võ Thuật](../../../advanced/deep-dives/martial-applications/)
 
-**Cấp tiếp theo:** [Elite: Chiến Lược Đẩy Tay Nâng Cao](../../elite/deep-dives/push-hands-strategies.md) | [Elite: Bồi Dưỡng Năng Lượng](../../elite/deep-dives/energetic-cultivation.md)
+**Cấp tiếp theo:** [Chiến Lược Thôi Thủ](../push-hands-strategies/) | [Bồi Dưỡng Nội Năng](../energetic-cultivation/)
 
-**Phiên bản tiếng Anh:** [Internal Mechanics →](../../../en/elite/deep-dives/internal-mechanics/)
+**Phiên bản tiếng Anh:** [Internal Mechanics →](../../../../en/elite/deep-dives/internal-mechanics/)
 
 **Khuyến nghị luyện tập:** Cơ học nội tại yêu cầu hướng dẫn có trình độ. Tự học từ văn bản đơn độc thường dẫn đến cơ học bị hiểu lầm. Tìm một giáo viên có thể cung cấp sửa chữa và phản hồi thực hành.

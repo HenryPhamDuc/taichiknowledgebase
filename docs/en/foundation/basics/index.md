@@ -85,4 +85,4 @@ Before learning a full form, work on individual movements. This is how you devel
 
 ---
 
-[Vietnamese: Cơ Bản Tiếng Việt →](../../vi/foundation/basics/) · [Foundation Overview ←](../index.md) · [Foundation Deep Dives →](../deep-dives/index.md)
+[Vietnamese: Cơ Bản Tiếng Việt →](../../vi/foundation/basics/) · [Foundation Overview ←](../) · [Foundation Deep Dives →](../deep-dives/)

@@ -78,7 +78,7 @@ Before you start this section, make sure you can honestly say yes to these:
 
 ## What's Next
 
-When you're ready to go deeper, the [Advanced Deep Dives](../deep-dives/index.md) section covers:
+When you're ready to go deeper, the [Advanced Deep Dives](../deep-dives/) section covers:
 
 - Martial applications of common movements (what each form *actually* does in a fight)
 - Internal vs. external power generation (and how to develop the internal kind)
@@ -89,4 +89,4 @@ Take your time. There is no prize for being fast.
 
 ---
 
-[← Return to Advanced Overview](../index.md) · [Vietnamese: Cơ Bản Cao Cấp →](../../../vi/advanced/basics/)
+[← Return to Advanced Overview](../) · [Vietnamese: Cơ Bản Cao Cấp →](../../../vi/advanced/basics/)

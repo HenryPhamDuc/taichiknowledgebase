@@ -453,11 +453,11 @@ The distinction between internal and external power is not just about how you fi
 
 ---
 
-**Foundation preparation:** [The 10 Essentials](../10-essentials.md) | [Yang Chengfu Principles](../yang-chengfu-principles.md)
+**Foundation preparation:** [The 10 Essentials](../../../foundation/deep-dives/10-essentials/) | [Yang Chengfu Principles](../../../foundation/deep-dives/yang-chengfu-principles/)
 
-**Related deep dive:** [Martial Applications of Movements](./martial-applications.md)
+**Related deep dive:** [Martial Applications of Movements](../martial-applications/)
 
-**Next level:** [Elite: Internal Mechanics](../../elite/deep-dives/internal-mechanics.md)
+**Next level:** [Elite: Internal Mechanics](../../../elite/deep-dives/internal-mechanics/)
 
 **Vietnamese version:** [Nội Gia vs. Ngoại Gia: Sự Khác Biệt Cốt Lõi →](../../../vi/advanced/deep-dives/internal-vs-external-power/)
 

@@ -10,13 +10,13 @@ Mỗi bài viết chuyên sâu ở đây lấy một khía cạnh cụ thể c�
 
 ## Các Bài Viết Trong Phần Này
 
-### [Ứng Dụng Võ Thuật: Mỗi Chuyển Động Thật Sự Làm Gì](martial-applications.md)
+### [Ứng Dụng Võ Thuật: Mỗi Chuyển Động Thật Sự Làm Gì](martial-applications/)
 
 Mỗi chuyển động Thái Cực Quyền đều có một ý nghĩa võ thuật — thường bị che giấu. Bài viết này hé lộ những ứng dụng đằng sau các kỹ thuật nền tảng như Bổng, Lộ, Kỳ, Án và những kỹ thuật khác. Bạn học cách mỗi chuyển động vận hành như tự vệ, tại sao nó trông như vậy, và cách kiểm tra nó với bạn đồng hành.
 
 **Đọc nếu:** bạn đã từng thắc mắc liệu Thái Cực Quyền "thật sự vận hành" như một môn võ thuật, hoặc ai đó nói với bạn nó có nhưng không ai chỉ cho bạn bằng cách nào.
 
-### [Phát Lực Nội Tại So Với Ngoại Tại](internal-vs-external-power.md)
+### [Phát Lực Nội Tại So Với Ngoại Tại](internal-vs-external-power/)
 
 Ngoại lực là điều hầu hết võ sinh phát triển — lực cơ bắp, sinh ra tại chỗ và đẩy ra ngoài. Nội lực (thường gọi là *phát kình*) là điều khác: lực sinh ra từ toàn thân, truyền qua cấu trúc thay vì cơ bắp.
 
@@ -55,4 +55,4 @@ Góp ý luôn được chào đón. Nếu có chủ đề bạn muốn có bài 
 
 ---
 
-[← Quay lại Tổng Quan Cao Cấp](../index.md) · [English: Advanced Deep Dives →](../../advanced/deep-dives/index.md)
+[← Quay lại Tổng Quan Cao Cấp](../) · [English: Advanced Deep Dives →](../../advanced/deep-dives/)

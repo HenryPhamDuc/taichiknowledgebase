@@ -243,6 +243,6 @@ Khi bạn luyện Thái Cực Quyền hôm nay, với 10 nguyên tắc này làm
 
 ---
 
-**Phiên bản tiếng Anh:** [Yang Chengfu's Foundational Principles →](../../../en/foundation/deep-dives/yang-chengfu-principles/)
+**Phiên bản tiếng Anh:** [Yang Chengfu's Foundational Principles →](../../../../en/foundation/deep-dives/yang-chengfu-principles/)
 
-**Từ điển thuật ngữ:** [Từ Điển Thái Cực Quyền →](../../reference/glossary.md)
+**Từ điển thuật ngữ:** [Từ Điển Thái Cực Quyền →](../../../../vi/reference/glossary/)

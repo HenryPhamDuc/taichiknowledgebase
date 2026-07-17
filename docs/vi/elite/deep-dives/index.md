@@ -12,7 +12,7 @@ Tôi muốn nói thật: không phải mọi bài viết ở đây sẽ có ý n
 
 ## Các Bài Viết Trong Phần Này
 
-### [Cơ Chế Nội Tại: Kỹ Thuật Của Nội Lực](internal-mechanics.md)
+### [Cơ Chế Nội Tại: Kỹ Thuật Của Nội Lực](internal-mechanics/)
 
 Khám phá chi tiết cách nội lực thật sự vận hành — về mặt vật lý, cơ học và năng lượng. Bài viết bao gồm các nguyên lý cấu trúc làm cho phát kình khả thi, cơ chế cơ thể cho phép lực phản ứng từ mặt đất đi qua xương thay vì cơ bắp, và quá trình luyện tập phát triển khả năng này qua nhiều năm.
 
@@ -65,4 +65,4 @@ Góp ý luôn được chào đón. Nếu có chủ đề bạn muốn thấy đ
 
 ---
 
-[← Quay lại Tổng Quan Tinh Hoa](../index.md) · [English: Elite Deep Dives →](../../elite/deep-dives/index.md)
+[← Quay lại Tổng Quan Tinh Hoa](../) · [English: Elite Deep Dives →](../../elite/deep-dives/)

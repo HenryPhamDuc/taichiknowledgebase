@@ -48,8 +48,8 @@ The bridge between Foundation practice and full Advanced work:
 
 In-depth articles on specific aspects of Advanced practice:
 
-- **[Martial Applications of Common Movements](deep-dives/martial-applications.md)** — what each form actually does as a self-defense technique
-- **[Internal vs. External Power Generation](deep-dives/internal-vs-external-power.md)** — the difference between force and structure, and how to develop the latter
+- **[Martial Applications of Common Movements](deep-dives/martial-applications/)** — what each form actually does as a self-defense technique
+- **[Internal vs. External Power Generation](deep-dives/internal-vs-external-power/)** — the difference between force and structure, and how to develop the latter
 - Advanced weight transfer patterns (coming soon)
 - Form variations across styles — Yang, Chen, Wu, and Sun (coming soon)
 
@@ -73,4 +73,4 @@ This is normal. Internal arts are learned by doing, not by understanding them in
 
 ---
 
-**Foundation not solid yet?** [Return to basics →](../foundation/index.md) · **Elite work:** [Elite Level →](../elite/index.md) · **Vietnamese:** [Cấp Độ Cao Cấp →](../../../vi/advanced/)
+**Foundation not solid yet?** [Return to basics →](../foundation/) · **Elite work:** [Elite Level →](../elite/) · **Vietnamese:** [Cấp Độ Cao Cấp →](../../../vi/advanced/)

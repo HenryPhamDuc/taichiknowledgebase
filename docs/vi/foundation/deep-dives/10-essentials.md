@@ -8,7 +8,7 @@
 
 Vì sao gọi là "Nguyên Tắc Thiết Yếu" chứ không phải "Quy Tắc"? Quy tắc là những ràng buộc bên ngoài. Nguyên tắc thiết yếu là những phẩm chất bên trong — khác biệt giữa "đừng ngả nghiêng" (quy tắc) và "tìm sự cân bằng trung tâm" (nguyên tắc thiết yếu). Một cái nói cho bạn biết không nên làm gì; cái kia chỉ hướng cho bạn trở thành điều gì.
 
-Để biết nguyên tác chữ Hán và cách phát âm, xem [Từ Điển Thái Cực Quyền](../../reference/glossary.md#10-nguyen-tac-thiet-yeu).
+Để biết nguyên tác chữ Hán và cách phát âm, xem [Từ Điển Thái Cực Quyền](../../../../vi/reference/glossary/#10-nguyen-tac-thiet-yeu).
 
 ---
 
@@ -387,6 +387,6 @@ Bài viết này bao quát cái gì và tại sao của mỗi nguyên tắc. Cá
 
 ---
 
-**Phiên bản tiếng Anh:** [The 10 Essentials of Tai Chi →](../../../en/foundation/deep-dives/10-essentials/)
+**Phiên bản tiếng Anh:** [The 10 Essentials of Tai Chi →](../../../../en/foundation/deep-dives/10-essentials/)
 
-**Thuật ngữ gốc chữ Hán:** [Từ Điển Thái Cực Quyền →](../../reference/glossary.md#10-nguyen-tac-thiet-yeu)
+**Thuật ngữ gốc chữ Hán:** [Từ Điển Thái Cực Quyền →](../../../../vi/reference/glossary/#10-nguyen-tac-thiet-yeu)

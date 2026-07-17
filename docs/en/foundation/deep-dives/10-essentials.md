@@ -8,7 +8,7 @@ These aren't rules to memorize — they're qualities to cultivate. You won't mas
 
 Why "Essentials" and not "Rules"? Rules are external constraints. Essentials are internal qualities — the difference between "don't lean" (rule) and "seek central equilibrium" (essential). One tells you what not to do; the other points toward what to become.
 
-For the original Chinese terms and pronunciation, see the [Tai Chi Glossary](../../reference/glossary.md#10-essentials).
+For the original Chinese terms and pronunciation, see the [Tai Chi Glossary](../../../reference/glossary/#10-essentials).
 
 ---
 
@@ -389,4 +389,4 @@ This article covers the what and why of each essential. Future articles in this 
 
 **Vietnamese version:** [10 Nguyên Tắc Thiết Yếu →](../../../vi/foundation/deep-dives/10-essentials/)
 
-**Original Chinese terms:** [Tai Chi Glossary →](../../reference/glossary.md#10-essentials)
+**Original Chinese terms:** [Tai Chi Glossary →](../../../reference/glossary/#10-essentials)

@@ -58,11 +58,13 @@ plugins:
             Advanced: Cao Cấp
             Elite: Tinh Hoa
             Taichi: Thái Cực
+            'Form Analysis': Phân Tích Bài Quyền
       fallback_to_default: true
 
 nav:
   - Home: index.md
   - Taichi: taichi/index.md
+  - 'Form Analysis': form-analysis/index.md
   - Foundation:
       - Overview: foundation/index.md
       - Basics: foundation/basics/index.md

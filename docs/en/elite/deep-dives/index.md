@@ -12,7 +12,7 @@ That's not a flaw. That's the point.
 
 ## Articles in This Section
 
-### [Internal Mechanics: The Engineering of Internal Power](internal-mechanics.md)
+### [Internal Mechanics: The Engineering of Internal Power](internal-mechanics/)
 
 A detailed examination of how internal power actually works — physically, mechanically, energetically. The article covers the structural principles that make fajin possible, the body mechanics that allow ground reaction force to travel through bone rather than muscle, and the training progressions that develop this capacity over years.
 
@@ -65,4 +65,4 @@ Suggestions welcome. If there's a topic you'd like to see covered at this level,
 
 ---
 
-[← Return to Elite Overview](../index.md) · [Vietnamese: Chuyên Sâu Tinh Hoa →](../../../vi/elite/deep-dives/)
+[← Return to Elite Overview](../) · [Vietnamese: Chuyên Sâu Tinh Hoa →](../../../vi/elite/deep-dives/)

@@ -38,4 +38,4 @@ Focused exploration of specific foundation topics:
 
 ---
 
-Next: [Basics →](basics/index.md) | [Deep Dives →](deep-dives/index.md)
+Next: [Basics →](basics/) | [Deep Dives →](deep-dives/)

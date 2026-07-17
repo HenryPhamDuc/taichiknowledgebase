@@ -6,9 +6,9 @@
 
 Cơ Sở Kiến Thức được sắp xếp theo ba cấp độ, đúng theo cách người ta thật sự học Thái Cực Quyền:
 
-- **[Nền Tảng](./foundation/index.md)** — nơi mọi hành trình bắt đầu. Tư thế, căn chỉnh, chuyển trọng lượng, Mười Nguyên Tắc Thiết Yếu, bài quyền, thói quen luyện tập hằng ngày.
-- **[Cao Cấp](./advanced/index.md)** — tinh chỉnh những gì bạn đã biết. Dòng năng lượng, làm việc với bạn đồng hành, đẩy tay, nội lực so với ngoại lực, ý nghĩa võ thuật đằng sau từng động tác.
-- **[Tinh Hoa](./elite/index.md)** — dành cho người đã luyện tập nhiều năm. Cơ chế nội tại, phát kình, cuốn tơ, những câu hỏi chỉ xuất hiện sau quá trình luyện tập lâu dài.
+- **[Nền Tảng](./foundation/)** — nơi mọi hành trình bắt đầu. Tư thế, căn chỉnh, chuyển trọng lượng, Mười Nguyên Tắc Thiết Yếu, bài quyền, thói quen luyện tập hằng ngày.
+- **[Cao Cấp](./advanced/)** — tinh chỉnh những gì bạn đã biết. Dòng năng lượng, làm việc với bạn đồng hành, đẩy tay, nội lực so với ngoại lực, ý nghĩa võ thuật đằng sau từng động tác.
+- **[Tinh Hoa](./elite/)** — dành cho người đã luyện tập nhiều năm. Cơ chế nội tại, phát kình, cuốn tơ, những câu hỏi chỉ xuất hiện sau quá trình luyện tập lâu dài.
 
 Mỗi cấp có phần **Cơ Bản** và **Chuyên Sâu** riêng. Cơ Bản là công việc thực hành. Chuyên Sâu là những bài viết đi sâu vào một chủ đề cụ thể.
 
@@ -28,15 +28,15 @@ Vài câu trả lời thật lòng:
 
 ## Nổi Bật Trong Tháng Này
 
-**Mười Nguyên Tắc Thiết Yếu Của Thái Cực Quyền** — phân tích chi tiết các nguyên lý nền tảng của Dương Trừng Phủ, cùng bài tập cho từng nguyên tắc. [Đọc →](./foundation/deep-dives/10-essentials.md)
+**Mười Nguyên Tắc Thiết Yếu Của Thái Cực Quyền** — phân tích chi tiết các nguyên lý nền tảng của Dương Trừng Phủ, cùng bài tập cho từng nguyên tắc. [Đọc →](./foundation/deep-dives/10-essentials/)
 
 **Hơi Thở Cơ Bản Trong Thái Cực Quyền** — thẻ mới về nguyên tắc hơi thở chánh niệm trong Thái Cực Quyền, với hướng dẫn từng bước cho giai đoạn đầu luyện tập.
 
-**Cơ Sinh Học Của Chuyển Động Thái Cực Quyền** — bài chuyên sâu dài về các nguyên lý cơ học đằng sau bài quyền, dựa trên khung giảng dạy của Ian Sinclair. [Đọc →](./foundation/deep-dives/ian-sinclair-biomechanics.md)
+**Cơ Sinh Học Của Chuyển Động Thái Cực Quyền** — bài chuyên sâu dài về các nguyên lý cơ học đằng sau bài quyền, dựa trên khung giảng dạy của Ian Sinclair. [Đọc →](./foundation/deep-dives/ian-sinclair-biomechanics/)
 
 ## Bắt Đầu Từ Đâu
 
-Nếu bạn mới làm quen với Thái Cực Quyền, hãy bắt đầu với [Cấp Độ Nền Tảng](./foundation/index.md). Tài liệu ở đó sẽ giữ bạn bận rộn nhiều tháng. Đừng vội bỏ qua.
+Nếu bạn mới làm quen với Thái Cực Quyền, hãy bắt đầu với [Cấp Độ Nền Tảng](./foundation/). Tài liệu ở đó sẽ giữ bạn bận rộn nhiều tháng. Đừng vội bỏ qua.
 
 ---
 
