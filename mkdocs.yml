@@ -1,10 +1,7 @@
 site_name: Tai Chi Knowledge Base
 site_description: Comprehensive Tai Chi training resource - Foundation, Advanced, and Elite levels
 site_author: Henry Pham
-docs_dir: docs
-site_dir: site
-use_directory_urls: false
-
+repo_url: https://github.com/HenryPhamDuc/taichiknowledgebase
 theme:
   name: material
   palette:
@@ -13,11 +10,17 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
     - navigation.indexes
     - search.highlight
     - search.suggest
   language: en
-
+custom_dir: docs/theme
+extra_css:
+  - assets/css/style.css
+  - assets/css/hide-language-toggle.css
+extra_javascript:
+  - assets/js/extra.js
 markdown_extensions:
   - toc:
       permalink: true
@@ -27,7 +30,6 @@ markdown_extensions:
   - pymdownx.details
   - tables
   - footnotes
-
 plugins:
   - i18n:
       docs_structure: folder
@@ -45,6 +47,7 @@ plugins:
             Advanced: Advanced
             Elite: Elite
             Taichi: Taichi
+            'Thư Viện Kiến Thức Thái Cực Quyền': 'Thư Viện Kiến Thức Thái Cực Quyền'
         - locale: vi
           name: Tiếng Việt
           build: true
@@ -57,6 +60,8 @@ plugins:
             Advanced: Cao Cấp
             Elite: Tinh Hoa
             Taichi: Thái Cực
+            'Thư Viện Kiến Thức Thái Cực Quyền': 'Thư Viện Kiến Thức Thái Cực Quyển'
+            'Tai Chi Knowledge Base': 'Tai Chi Knowledge Base'   # NEW LINK
       fallback_to_default: true
 
 nav:
@@ -74,3 +79,5 @@ nav:
       - Overview: elite/index.md
       - Basics: elite/basics/index.md
       - Deep Dives: elite/deep-dives/index.md
+  - 'Thư Viện Kiến Thức Thái Cực Quyền': https://henryphamduc.github.io/taichiknowledgebase/vi/index.html
+  - 'Tai Chi Knowledge Base': https://henryphamduc.github.io/taichiknowledgebase/en/index.html   # NEW LINK AT END
