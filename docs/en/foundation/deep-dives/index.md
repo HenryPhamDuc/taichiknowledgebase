@@ -107,4 +107,4 @@ Curated tutorials from your playlist:
 
 ---
 
-**Vietnamese version:** [Chuyên Sâu Tiếng Việt →](../../../vi/foundation/deep-dives/)
+**Vietnamese version:** [Chuyên Sâu Tiếng Việt →](../../vi/foundation/deep-dives/)

@@ -55,4 +55,4 @@ Suggestions welcome. If there's a topic you'd like a deep-dive on, let me know.
 
 ---
 
-[← Return to Advanced Overview](../) · [Vietnamese: Chuyên Sâu Cao Cấp →](../../../vi/advanced/deep-dives/)
+[← Return to Advanced Overview](../) · [Vietnamese: Chuyên Sâu Cao Cấp →](../../vi/advanced/deep-dives/)

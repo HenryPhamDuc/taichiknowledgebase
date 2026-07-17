@@ -65,4 +65,4 @@ Suggestions welcome. If there's a topic you'd like to see covered at this level,
 
 ---
 
-[← Return to Elite Overview](../) · [Vietnamese: Chuyên Sâu Tinh Hoa →](../../../vi/elite/deep-dives/)
+[← Return to Elite Overview](../) · [Vietnamese: Chuyên Sâu Tinh Hoa →](../../vi/elite/deep-dives/)

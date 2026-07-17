@@ -73,4 +73,4 @@ This is normal. Internal arts are learned by doing, not by understanding them in
 
 ---
 
-**Foundation not solid yet?** [Return to basics →](../foundation/) · **Elite work:** [Elite Level →](../elite/) · **Vietnamese:** [Cấp Độ Cao Cấp →](../../../vi/advanced/)
+**Foundation not solid yet?** [Return to basics →](../foundation/) · **Elite work:** [Elite Level →](../elite/) · **Vietnamese:** [Cấp Độ Cao Cấp →](../vi/advanced/)
